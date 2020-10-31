@@ -1,4 +1,4 @@
-# googleTrendApi
+# googleTrendApiExemple
 
 This project is an application of the google trend api (https://github.com/pat310/google-trends-api)
 
