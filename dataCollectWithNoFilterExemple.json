@@ -1,0 +1,1937 @@
+{
+    "default": {
+      "trendingSearchesDays": [
+        {
+          "date": "20201030",
+          "formattedDate": "Friday, October 30, 2020",
+          "trendingSearches": [
+            {
+              "title": {
+                "query": "Turkey earthquake",
+                "exploreLink": "/trends/explore?q=Turkey+earthquake&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "200K+",
+              "relatedQueries": [
+                {
+                  "query": "Earthquake",
+                  "exploreLink": "/trends/explore?q=Earthquake&date=now+7-d&geo=US"
+                },
+                {
+                  "query": "Turkey",
+                  "exploreLink": "/trends/explore?q=Turkey&date=now+7-d&geo=US"
+                },
+                {
+                  "query": "earthquake in turkey",
+                  "exploreLink": "/trends/explore?q=earthquake+in+turkey&date=now+7-d&geo=US"
+                }
+              ],
+              "image": {
+                "newsUrl": "https://www.npr.org/2020/10/30/929478938/7-0-magnitude-earthquake-strikes-in-aegean-sea-4-dead-in-turkey",
+                "source": "NPR",
+                "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSen4DUK5BgL1r8l2vioRPrMCQLss2V9RZvwLFWgWaIm33arZdJGCVhH3aTa0RspAMAthxOuQxI"
+              },
+              "articles": [
+                {
+                  "title": "7.0 Magnitude Earthquake Strikes In Aegean Sea; At Least 14 Dead ...",
+                  "timeAgo": "15h ago",
+                  "source": "NPR",
+                  "image": {
+                    "newsUrl": "https://www.npr.org/2020/10/30/929478938/7-0-magnitude-earthquake-strikes-in-aegean-sea-4-dead-in-turkey",
+                    "source": "NPR",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSen4DUK5BgL1r8l2vioRPrMCQLss2V9RZvwLFWgWaIm33arZdJGCVhH3aTa0RspAMAthxOuQxI"
+                  },
+                  "url": "https://www.npr.org/2020/10/30/929478938/7-0-magnitude-earthquake-strikes-in-aegean-sea-4-dead-in-turkey",
+                  "snippet": "The earthquake&#39;s worst effects are reported in Turkey, where officials say at least 12 people died and more than 600 were injured. The city of Izmir suffered&nbsp;..."
+                },
+                {
+                  "title": "Earthquake off Turkey and Greece kills at least 27 - CNN",
+                  "timeAgo": "10h ago",
+                  "source": "CNN",
+                  "image": {
+                    "newsUrl": "https://www.cnn.com/2020/10/30/europe/earthquake-greece-turkey-aegean-intl/index.html",
+                    "source": "CNN",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRDXiRKyDttJPWAV7rTfdPm2rcr8xmR8IphLESUBu2gM4ViZP2_luME8HkNRwFszBNY1P6vbEC-"
+                  },
+                  "url": "https://www.cnn.com/2020/10/30/europe/earthquake-greece-turkey-aegean-intl/index.html",
+                  "snippet": "At least 27 people were killed in Turkey and Greece when a powerful earthquake hit the Aegean Sea on Friday afternoon, sending buildings crashing down and&nbsp;..."
+                },
+                {
+                  "title": "Powerful earthquake strikes Turkey and Greece, killing at least 19",
+                  "timeAgo": "11h ago",
+                  "source": "CBS News",
+                  "image": {
+                    "newsUrl": "https://www.cbsnews.com/news/greece-earthquake-turkey-magnitude-death-toll-today-2020-10-30/",
+                    "source": "CBS News",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTAg0TjdOGyRycBDzgVsYHJdUG-gBL3-n3mxzew6zTSs_ZmFwdLngaVK1AAZ3tK7wFdNDYoPEPy"
+                  },
+                  "url": "https://www.cbsnews.com/news/greece-earthquake-turkey-magnitude-death-toll-today-2020-10-30/",
+                  "snippet": "The death toll is climbing by the hour after a powerful earthquake struck the Aegean Sea off the coast of Turkey and the Greek island of Samos. At least 19&nbsp;..."
+                },
+                {
+                  "title": "Greece and Turkey earthquake driven by wild tectonics of the ...",
+                  "timeAgo": "12h ago",
+                  "source": "National Geographic",
+                  "image": {
+                    "newsUrl": "https://www.nationalgeographic.com/science/2020/10/greece-and-turkey-earthquake-driven-by-wild-tectonics-of-aegean-sea/",
+                    "source": "National Geographic",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTNEFZVM5p56QqwwT9Ym-Fcmv-QWTjaB92v3Q72OWU39lNeCD78PH4N9oryCasjH-o-9weGV56k"
+                  },
+                  "url": "https://www.nationalgeographic.com/science/2020/10/greece-and-turkey-earthquake-driven-by-wild-tectonics-of-aegean-sea/",
+                  "snippet": "The magnitude 7.0 temblor occurred in an area of complex geologic movement, where multiple tectonic plates crack the surface as they jostle for position."
+                },
+                {
+                  "title": "Rescue teams search rubble after earthquake rocks Turkish coast ...",
+                  "timeAgo": "2h ago",
+                  "source": "The Guardian",
+                  "image": {
+                    "newsUrl": "https://www.theguardian.com/world/2020/oct/30/powerful-earthquake-rocks-turkish-coast-and-greek-islands-izmir",
+                    "source": "The Guardian",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSFSzirTuRjy_bBSpLMoW9nQ5AvD_i2-wc7RSmIAqrvIXRub_GkHr39Oky9-r2SxpS_g6UiNEVJ"
+                  },
+                  "url": "https://www.theguardian.com/world/2020/oct/30/powerful-earthquake-rocks-turkish-coast-and-greek-islands-izmir",
+                  "snippet": "At least 27 reported dead and 800 injured in quake that hit İzmir in Turkey and Greek island of Samos."
+                },
+                {
+                  "title": "In Turkey, a Frantic Rescue Effort After a Deadly Earthquake",
+                  "timeAgo": "12h ago",
+                  "source": "The New York Times",
+                  "image": {
+                    "newsUrl": "https://www.nytimes.com/2020/10/30/world/europe/greece-turkey-earthquake-izmir.html",
+                    "source": "The New York Times",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQIhbCxfMyH9s2boHq6Lh5fa7iUq9mCLwq_-PXATiUzHE0nmmIDx9qtXWkEae7IB-TPoSW4YwRz"
+                  },
+                  "url": "https://www.nytimes.com/2020/10/30/world/europe/greece-turkey-earthquake-izmir.html",
+                  "snippet": "The quake was centered off the coast of Samos, a Greek island, and caused major damage in the western Turkish city of Izmir."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Turkey+earthquake#Turkey%20earthquake"
+            },
+            {
+              "title": {
+                "query": "Hocus Pocus",
+                "exploreLink": "/trends/explore?q=Hocus+Pocus&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "200K+",
+              "relatedQueries": [
+                {
+                  "query": "hocus pocus cast",
+                  "exploreLink": "/trends/explore?q=hocus+pocus+cast&date=now+7-d&geo=US"
+                }
+              ],
+              "image": {
+                "newsUrl": "https://www.cnn.com/2020/10/30/entertainment/hocus-pocus-reunion-livestream/index.html",
+                "source": "CNN",
+                "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSWE5uk0QWTACZDYariYRGMDTtGIqOl0JMRSkdYvRsPBK1hPn3cePrWts3y8AVaknvXNBQxaN7B"
+              },
+              "articles": [
+                {
+                  "title": "Bette Midler, Sarah Jessica Parker, Kathy Najimy reunite for &#39;Hocus ...",
+                  "timeAgo": "6h ago",
+                  "source": "CNN",
+                  "image": {
+                    "newsUrl": "https://www.cnn.com/2020/10/30/entertainment/hocus-pocus-reunion-livestream/index.html",
+                    "source": "CNN",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSWE5uk0QWTACZDYariYRGMDTtGIqOl0JMRSkdYvRsPBK1hPn3cePrWts3y8AVaknvXNBQxaN7B"
+                  },
+                  "url": "https://www.cnn.com/2020/10/30/entertainment/hocus-pocus-reunion-livestream/index.html",
+                  "snippet": "Midler&#39;s annual fundraiser known as Hulaween, brought together her former co-stars Sarah Jessica Parker and Kathy Najimy, also known as the Sanderson&nbsp;..."
+                },
+                {
+                  "title": "How to watch the &#39;Hocus Pocus&#39; reunion tonight with Bette Midler ...",
+                  "timeAgo": "16h ago",
+                  "source": "nj.com",
+                  "image": {
+                    "newsUrl": "https://www.nj.com/entertainment/2020/10/how-to-watch-bette-midlers-hocus-pocus-reunion-tonight-with-meryl-streep-billy-crystal-and-more.html",
+                    "source": "nj.com",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRUX1jP_sIEXPxU0LpRZaZc2D4gZnN5SmAQtWdcLxh0IwEHso_aTpGUUzu_iS0kMz6d5P4aiceT"
+                  },
+                  "url": "https://www.nj.com/entertainment/2020/10/how-to-watch-bette-midlers-hocus-pocus-reunion-tonight-with-meryl-streep-billy-crystal-and-more.html",
+                  "snippet": "&#39;Hocus Pocus,&#39; starring Midler, Sarah Jessica Parker and Kathy Najimy, was released in 1993."
+                },
+                {
+                  "title": "&#39;Hocus Pocus&#39; Director Wants the Original Cast Back For Disney ...",
+                  "timeAgo": "13h ago",
+                  "source": "Variety",
+                  "image": {
+                    "newsUrl": "https://variety.com/2020/film/news/hocus-pocus-sequel-disney-plus-original-cast-kenny-ortega-1234819786/",
+                    "source": "Variety",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQcRMYHJTol-FCkW1FE7ObKj28GBPqoZVpo2bJCQkuzQ-UdhLh39egg2HsXJDj_shUcfVgD9wnn"
+                  },
+                  "url": "https://variety.com/2020/film/news/hocus-pocus-sequel-disney-plus-original-cast-kenny-ortega-1234819786/",
+                  "snippet": "Original &quot;Hocus Pocus&quot; director Kenny Ortega would like to see the original cast members return for the Disney Plus sequel."
+                },
+                {
+                  "title": "Completely bonkers &#39;Hocus Pocus&#39; fundraiser reunites cast ...",
+                  "timeAgo": "7h ago",
+                  "source": "USA TODAY",
+                  "image": {
+                    "newsUrl": "https://www.usatoday.com/story/entertainment/movies/2020/10/30/hocus-pocus-reunion-winifred-returns-bonkers-fundraising-event/6093797002/",
+                    "source": "USA TODAY",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSAeo53HRzB7LsG506RhH9gQw9IIsjjRnHN79haOtQafHMsjvL7oC0jD7TcIG5VBZNggtzchM39"
+                  },
+                  "url": "https://www.usatoday.com/story/entertainment/movies/2020/10/30/hocus-pocus-reunion-winifred-returns-bonkers-fundraising-event/6093797002/",
+                  "snippet": "Bette Midler&#39;s &quot;Hocus Pocus&quot; cast and stars including Mariah Carey, Meryl Streep, Glenn Close and John Stamos made a bonkers fundraiser video."
+                },
+                {
+                  "title": "How to watch the &#39;Hocus Pocus&#39; reunion with Bette Midler",
+                  "timeAgo": "12h ago",
+                  "source": "Los Angeles Times",
+                  "url": "https://www.latimes.com/entertainment-arts/movies/story/2020-10-30/how-to-watch-hocus-pocus-reunion-bette-midler-sarah-jessica-parker",
+                  "snippet": "The wicked Sanderson Sisters of &quot;Hocus Pocus&quot; — Bette Midler, Sarah Jessica Parker and Kathy Najimy — are reuniting tonight for a good cause."
+                },
+                {
+                  "title": "How to Watch and Stream the &#39;Hocus Pocus&#39; Virtual Halloween ...",
+                  "timeAgo": "14h ago",
+                  "source": "GoodHousekeeping.com",
+                  "image": {
+                    "newsUrl": "https://www.goodhousekeeping.com/life/entertainment/a34511529/how-to-watch-hocus-pocus-cast-halloween-reunion/",
+                    "source": "GoodHousekeeping.com",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQe6SwNeuNZ_A9koaANYEVDVAr1VNfuuilSPINo3QE4fvL53dgKHLpLdoAOHgtJDJx_FqtcaBQA1A"
+                  },
+                  "url": "https://www.goodhousekeeping.com/life/entertainment/a34511529/how-to-watch-hocus-pocus-cast-halloween-reunion/",
+                  "snippet": "&#39;Hocus Pocus&#39; stars Bette Midler, Sarah Jessica Parker, and Kathy Najimy will appear in a one-hour special event to help raise funds for the nonprofit the New&nbsp;..."
+                },
+                {
+                  "title": "How to Watch the &#39;Hocus Pocus&#39; Reunion Tonight",
+                  "timeAgo": "13h ago",
+                  "source": "Decider",
+                  "image": {
+                    "newsUrl": "https://decider.com/2020/10/30/how-to-watch-hocus-pocus-reunion/",
+                    "source": "Decider",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRES_r92JecFYiCMnvm5OXhixQ9HRP-nLpUbpKzYupmERSvJqcftd6jsqnM0nEXvqJ0yIT6dMMY"
+                  },
+                  "url": "https://decider.com/2020/10/30/how-to-watch-hocus-pocus-reunion/",
+                  "snippet": "OG Sanderson sisters Bette Midler, Sarah Jessica Parker, and Kathy Najimy have been conjured up for the virtual Hocus Pocus reunion, but that&#39;s not all: cast&nbsp;..."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Hocus+Pocus#Hocus%20Pocus"
+            },
+            {
+              "title": {
+                "query": "Halloween movies",
+                "exploreLink": "/trends/explore?q=Halloween+movies&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "200K+",
+              "relatedQueries": [
+                {
+                  "query": "halloween movie",
+                  "exploreLink": "/trends/explore?q=halloween+movie&date=now+7-d&geo=US"
+                },
+                {
+                  "query": "best Halloween movies",
+                  "exploreLink": "/trends/explore?q=best+Halloween+movies&date=now+7-d&geo=US"
+                }
+              ],
+              "image": {
+                "newsUrl": "https://www.vaildaily.com/entertainment/movie-guru-the-best-non-horror-halloween-movies/",
+                "source": "Vail Daily News",
+                "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQhrwdeh6G3VQfT3yQ3EJYkk5XyVMmx4mumaL9bBMxDcR0cUNVDGohzJk4avy_OwGdGsNEAjxK3"
+              },
+              "articles": [
+                {
+                  "title": "Movie Guru: The best non-horror Halloween movies",
+                  "timeAgo": "13h ago",
+                  "source": "Vail Daily News",
+                  "image": {
+                    "newsUrl": "https://www.vaildaily.com/entertainment/movie-guru-the-best-non-horror-halloween-movies/",
+                    "source": "Vail Daily News",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQhrwdeh6G3VQfT3yQ3EJYkk5XyVMmx4mumaL9bBMxDcR0cUNVDGohzJk4avy_OwGdGsNEAjxK3"
+                  },
+                  "url": "https://www.vaildaily.com/entertainment/movie-guru-the-best-non-horror-halloween-movies/",
+                  "snippet": "Spooky, but no horror and maybe a little bit of horror."
+                },
+                {
+                  "title": "The best Halloween movies for the spooky season - The Aggie",
+                  "timeAgo": "17h ago",
+                  "source": "The Aggie",
+                  "image": {
+                    "newsUrl": "https://theaggie.org/2020/10/30/the-best-halloween-movies-for-the-spooky-season/",
+                    "source": "The Aggie",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQidyZOqw7HqrzEwWTN06dNpyL8f5TlaVq9yJ2K2j2O0CTyXqTnEmQiIpSm20gtKzvXY7duGD9L"
+                  },
+                  "url": "https://theaggie.org/2020/10/30/the-best-halloween-movies-for-the-spooky-season/",
+                  "snippet": "Three categories of Halloween films to get you in the spirit from Hulu, Netflix and Amazon Prime If you&#39;re looking for a good range of movi."
+                },
+                {
+                  "title": "The best Halloween movies to stream on Netflix, Hulu, Disney Plus ...",
+                  "timeAgo": "15h ago",
+                  "source": "CNET",
+                  "image": {
+                    "newsUrl": "https://www.cnet.com/news/best-halloween-2020-horror-movies-to-watch-on-netflix-hulu-amazon-prime/",
+                    "source": "CNET",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSZlOi58paUVFVP4UogoA2bqbvxzUAH19mYd3DZIp8zgRYrZeYD2LXjZZz06fexLhwFXT0qWE4t"
+                  },
+                  "url": "https://www.cnet.com/news/best-halloween-2020-horror-movies-to-watch-on-netflix-hulu-amazon-prime/",
+                  "snippet": "Channel the horror in these films to get your mind off the scariness of the real world right now."
+                },
+                {
+                  "title": "20 best Halloween movies and shows for folks who hate scary stuff",
+                  "timeAgo": "13h ago",
+                  "source": "Tom's Guide",
+                  "image": {
+                    "newsUrl": "https://www.tomsguide.com/round-up/20-best-halloween-movies-and-shows-for-folks-who-hate-scary-stuff",
+                    "source": "Tom's Guide",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRbmLuPWZ0iYGH0IPXlV-TLSNsC8jDeF5HWvEh0LxRSuN_ouHXkh7fwim2v2huCJBWwAAiYFJEd"
+                  },
+                  "url": "https://www.tomsguide.com/round-up/20-best-halloween-movies-and-shows-for-folks-who-hate-scary-stuff",
+                  "snippet": "Our guide to not-scary Halloween movies and TV shows including What We Do in the Shadows, Hocus Pocus, Beetlejuice and more."
+                },
+                {
+                  "title": "Month of Horror: Top 5 Halloween movies",
+                  "timeAgo": "17h ago",
+                  "source": "North Texas Daily",
+                  "image": {
+                    "newsUrl": "https://www.ntdaily.com/month-of-horror-top-5-halloween-movies/",
+                    "source": "North Texas Daily",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTldbuJf7fJk2CaynzkG86WTluU-T-xMkGtVC803wn788qM4-tK4w-DpWjRkkrSkofbH9hnjKXz"
+                  },
+                  "url": "https://www.ntdaily.com/month-of-horror-top-5-halloween-movies/",
+                  "snippet": "Halloween is days away, and we have covered the beautiful genre of horror in every way possible. To end this month, I wanted to make a list of the top five&nbsp;..."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Halloween+movies#Halloween%20movies"
+            },
+            {
+              "title": {
+                "query": "Daylight savings time 2020",
+                "exploreLink": "/trends/explore?q=Daylight+savings+time+2020&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "100K+",
+              "relatedQueries": [],
+              "image": {
+                "newsUrl": "https://www.usatoday.com/story/news/nation/2020/10/30/daylight-saving-time-2020-date-when-end-why-we-have/6076435002/",
+                "source": "USA TODAY",
+                "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcR8FtJq0_OHlq9-vDrodPm7ADV-eDq8ZRE2swQny35KUhpJZegfwWKtNH7hNCuqabUgU8rvCdpG"
+              },
+              "articles": [
+                {
+                  "title": "When does the time change in 2020? Here&#39;s when we &#39;fall back&#39; for ...",
+                  "timeAgo": "1d ago",
+                  "source": "USA TODAY",
+                  "image": {
+                    "newsUrl": "https://www.usatoday.com/story/news/nation/2020/10/30/daylight-saving-time-2020-date-when-end-why-we-have/6076435002/",
+                    "source": "USA TODAY",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcR8FtJq0_OHlq9-vDrodPm7ADV-eDq8ZRE2swQny35KUhpJZegfwWKtNH7hNCuqabUgU8rvCdpG"
+                  },
+                  "url": "https://www.usatoday.com/story/news/nation/2020/10/30/daylight-saving-time-2020-date-when-end-why-we-have/6076435002/",
+                  "snippet": "Daylight saving time ends this Sunday, November 1. We will &quot;fall back,&quot; so we gain an hour of sleep, but it will start getting darker even earlier."
+                },
+                {
+                  "title": "Daylight saving time 2020: When is it?",
+                  "timeAgo": "32w ago",
+                  "source": "The Denver Post",
+                  "image": {
+                    "newsUrl": "https://www.denverpost.com/2020/10/30/daylight-saving-time-2020-when-is-it/",
+                    "source": "The Denver Post",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQxO5UW89LSG7ASTQQ0sQbWr07iWOewSxbYnAMVrJY5IA2FkALINuDP-mkrT8gIU8gVrx4GvY7-"
+                  },
+                  "url": "https://www.denverpost.com/2020/10/30/daylight-saving-time-2020-when-is-it/",
+                  "snippet": "Daylight saving time ends on Nov. 1 this year. At 2 a.m., clocks will fall back one hour to 1 a.m.. The time change in Colorado will give people an extra hour this&nbsp;..."
+                },
+                {
+                  "title": "Ticked-off public demands end to daylight saving time due to COVID ...",
+                  "timeAgo": "18h ago",
+                  "source": "New York Post",
+                  "image": {
+                    "newsUrl": "https://nypost.com/2020/10/30/daylight-savings-2020-experts-call-for-end-due-to-covid-19/",
+                    "source": "New York Post",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRDyaAVSJEqP-inxPJ2hNdGJ3NxjgWOEAXzbhDxY3Yl_Rg_lyrGgG7Fqzuh35zuU53h4PaEJ5b9"
+                  },
+                  "url": "https://nypost.com/2020/10/30/daylight-savings-2020-experts-call-for-end-due-to-covid-19/",
+                  "snippet": "Daylight saving time and turning back the clocks might put us in danger of losing our minds due to the disruption to our senses."
+                },
+                {
+                  "title": "Daylight saving time: What to know about fall 2020, negative health ...",
+                  "timeAgo": "20h ago",
+                  "source": "WLS-TV",
+                  "image": {
+                    "newsUrl": "https://abc7chicago.com/daylight-savings-time-saving-2020-when-is/7478851/",
+                    "source": "WLS-TV",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTMwytoG8pFcjdL-zKMRSLnNM8zBR47LO3FWlG24px0MlkzS2XJgRNtLcjlMDynPKWRtJ5dwSRm"
+                  },
+                  "url": "https://abc7chicago.com/daylight-savings-time-saving-2020-when-is/7478851/",
+                  "snippet": "NEW YORK -- Daylight saving time ends after a full mooned-Halloween, before a presidential election and amid a pandemic. Many experts have pointed to the&nbsp;..."
+                },
+                {
+                  "title": "When does the time change in 2020? Here&#39;s when daylight saving ...",
+                  "timeAgo": "20h ago",
+                  "source": "GoErie.com",
+                  "image": {
+                    "newsUrl": "https://www.goerie.com/story/news/2020/10/30/daylight-saving-time-ends-november-1-and-we-fall-back/6083474002/",
+                    "source": "GoErie.com",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRWUEJmySNPDbBskYKI0Vl6fo-uII0yRsr82BhESdAtZmMh6q72WiVNR7jzOxD91Ltq3UzQLqFu"
+                  },
+                  "url": "https://www.goerie.com/story/news/2020/10/30/daylight-saving-time-ends-november-1-and-we-fall-back/6083474002/",
+                  "snippet": "Daylight saving time is almost over, so get ready to &quot;fall back.&quot; The official time to turn your clock back an hour is 2 a.m. Sunday. After the change, the sun will rise&nbsp;..."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Daylight+savings+time+2020#Daylight%20savings%20time%202020"
+            },
+            {
+              "title": {
+                "query": "Lori Loughlin",
+                "exploreLink": "/trends/explore?q=Lori+Loughlin&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "100K+",
+              "relatedQueries": [],
+              "image": {
+                "newsUrl": "https://www.cnn.com/2020/10/30/us/lori-loughlin-college-admissions-scandal-sentence/index.html",
+                "source": "CNN",
+                "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSht2BEKO9Q_PiWU4N2Vq6d3TMMFVpjtcMvqOTPUfM58JOD29TpKV8_8BAtXOKmXQY58dAhtEyp"
+              },
+              "articles": [
+                {
+                  "title": "Lori Loughlin begins 2 months in prison - CNN",
+                  "timeAgo": "14h ago",
+                  "source": "CNN",
+                  "image": {
+                    "newsUrl": "https://www.cnn.com/2020/10/30/us/lori-loughlin-college-admissions-scandal-sentence/index.html",
+                    "source": "CNN",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSht2BEKO9Q_PiWU4N2Vq6d3TMMFVpjtcMvqOTPUfM58JOD29TpKV8_8BAtXOKmXQY58dAhtEyp"
+                  },
+                  "url": "https://www.cnn.com/2020/10/30/us/lori-loughlin-college-admissions-scandal-sentence/index.html",
+                  "snippet": "&quot;Full House&quot; actress Lori Loughlin has reported to the Federal Correctional Institution in Dublin, California, to begin her two-month sentence, a prison&nbsp;..."
+                },
+                {
+                  "title": "Lori Loughlin reports to prison in college scam",
+                  "timeAgo": "13h ago",
+                  "source": "pressherald.com",
+                  "image": {
+                    "newsUrl": "https://www.pressherald.com/2020/10/30/lori-loughlin-reports-to-prison-in-college-scam/",
+                    "source": "pressherald.com",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQNYiYXFCs75tlYWQimoWoV2Jx00J_xOKBZu0k7mzgUYMtvdNP5ItiI5oYRchsmsepyUmu0LT-p"
+                  },
+                  "url": "https://www.pressherald.com/2020/10/30/lori-loughlin-reports-to-prison-in-college-scam/",
+                  "snippet": "The &#39;Full House&#39; star begins serving a two-month sentence for her role in the college admissions bribery scandal. By ALANNA DURKIN RICHER and MICHAEL&nbsp;..."
+                },
+                {
+                  "title": "Lori Loughlin Reports to Prison to Serve Time in College ...",
+                  "timeAgo": "13h ago",
+                  "source": "NBC10 Boston",
+                  "image": {
+                    "newsUrl": "https://www.nbcboston.com/news/local/lori-loughlin-reports-to-prison-to-serve-time-in-college-admissions-scandal/2221101/",
+                    "source": "NBC10 Boston",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSgtzDnzyYizzvIOzrYuW2asb0pM1DJuem0KcqfTEYeXtq70_QHWmf-RDpCFz6X07RTJ0H5BA0H"
+                  },
+                  "url": "https://www.nbcboston.com/news/local/lori-loughlin-reports-to-prison-to-serve-time-in-college-admissions-scandal/2221101/",
+                  "snippet": "Full House” star Lori Loughlin has reported to a California federal prison to serve her two-month sentence for her part in the “Operation Varsity..."
+                },
+                {
+                  "title": "Lori Loughlin Reports to Prison to Serve Sentence in College ...",
+                  "timeAgo": "15h ago",
+                  "source": "Spectrum News 1",
+                  "image": {
+                    "newsUrl": "https://spectrumnews1.com/ca/la-west/public-safety/2020/10/30/lori-loughlin-reports-to-prison-to-serve-sentence-in-college-admission-scandal",
+                    "source": "Spectrum News 1",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSLX5ePEjV3O23uzqkDZV6VyKWWEvd9_-oZ48tz62LJeEc3Lrfo5EhXuQvuw_Yz_RJVoGbCDQlM"
+                  },
+                  "url": "https://spectrumnews1.com/ca/la-west/public-safety/2020/10/30/lori-loughlin-reports-to-prison-to-serve-sentence-in-college-admission-scandal",
+                  "snippet": "LOS ANGELES — Full House actress Lori Loughlin has reported to a California prison to serve a two-month term in the college admission case. The U.S.&nbsp;..."
+                },
+                {
+                  "title": "Lori Loughlin begins 2-month prison sentence in college admissions ...",
+                  "timeAgo": "17h ago",
+                  "source": "NBC News",
+                  "image": {
+                    "newsUrl": "https://www.nbcnews.com/news/us-news/lori-loughlin-begins-2-month-prison-sentence-college-admissions-scandal-n1245434",
+                    "source": "NBC News",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTCuj6tlQW4JrqD1YF-M5ELf6VhvYgIiJuVfY6EJ5GepUAIZHk4eg1nZOX-Tm1_1AIzmRFOPRJQ"
+                  },
+                  "url": "https://www.nbcnews.com/news/us-news/lori-loughlin-begins-2-month-prison-sentence-college-admissions-scandal-n1245434",
+                  "snippet": "Lori Loughlin reported to prison Friday to begin serving her two-month sentence for paying $500000 to get her daughters into college."
+                },
+                {
+                  "title": "Lori Loughlin surrenders to Dublin prison, but COVID-19 may limit ...",
+                  "timeAgo": "14h ago",
+                  "source": "Marin Independent Journal",
+                  "image": {
+                    "newsUrl": "https://www.marinij.com/2020/10/30/lori-loughlin-surrenders-to-dublin-prison-but-covid-19-will-keep-daughters-away/",
+                    "source": "Marin Independent Journal",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQnaUzdae--YiOt8zygNxPXuMNkSCRtr7ojkWOxusW4V5-XSJSssBkqqEoaKPLCDDAzcOvYf4so"
+                  },
+                  "url": "https://www.marinij.com/2020/10/30/lori-loughlin-surrenders-to-dublin-prison-but-covid-19-will-keep-daughters-away/",
+                  "snippet": "Lori Loughlin finally had to face the hard consequences of her role in the college admissions scandal, reporting to the Federal Correctional Institution in Dublin&nbsp;..."
+                },
+                {
+                  "title": "Lori Loughlin se reporta en prisión para cumplir sentencia",
+                  "timeAgo": "16h ago",
+                  "source": "San Diego Union-Tribune en Español",
+                  "url": "https://www.sandiegouniontribune.com/en-espanol/noticias/story/2020-10-30/lori-loughlin-se-reporta-en-prision-para-cumplir-sentencia",
+                  "snippet": "Actriz de “Full House” Lori Loughlin se reporta en una prisión federal de California para empezar a cumplir su sentencia de dos meses por su papel en el&nbsp;..."
+                },
+                {
+                  "title": "Lori Loughlin entra a prisión a cumplir su sentencia por soborno ...",
+                  "timeAgo": "14h ago",
+                  "source": "La Noticia",
+                  "image": {
+                    "newsUrl": "https://www.lanoticia.com/lori-loughlin-entra-a-prision-a-cumplir-su-sentencia-por-soborno-universitario/",
+                    "source": "La Noticia",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRCykJlgI-UQf-IUSoowkiptx-3V5LoHia2VxQvpzgSuinBYu9r6p82gGldC-dg9ibXxCn8mXWI"
+                  },
+                  "url": "https://www.lanoticia.com/lori-loughlin-entra-a-prision-a-cumplir-su-sentencia-por-soborno-universitario/",
+                  "snippet": "Lori Loughlin, actriz de Full House (Tres por tres) se reportó el viernes a una prisión federal de California. Empezará a cumplir su sentencia de dos meses por&nbsp;..."
+                },
+                {
+                  "title": "Lori Loughlin se presentó en prisión para cumplir sentencia por ...",
+                  "timeAgo": "11h ago",
+                  "source": "Milenio.com",
+                  "image": {
+                    "newsUrl": "https://www.milenio.com/espectaculos/lori-loughlin-actriz-acude-prision-cumplir-sentencia",
+                    "source": "Milenio.com",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSgR_IdrF3JV2V5Azp2XqrPeHDYXwOvYnRCU2bb0JTTDIlxQAD31w3vn0OBXccs--85NX2rJ7nz"
+                  },
+                  "url": "https://www.milenio.com/espectaculos/lori-loughlin-actriz-acude-prision-cumplir-sentencia",
+                  "snippet": "La actriz de &quot;Full House&quot;, Lori Loughlin, acudió a prisión para cumplir la sentencia que debe pagar tras realizar sobornos universitarios."
+                },
+                {
+                  "title": "La actriz Lori Loughlin, de Full House, ya cumple su pena de dos ...",
+                  "timeAgo": "7h ago",
+                  "source": "LA NACION",
+                  "image": {
+                    "newsUrl": "https://www.lanacion.com.ar/espectaculos/personajes/la-actriz-lori-loughlin-full-house-cumple-nid2494808",
+                    "source": "LA NACION",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSiTk-C2rvAKbo9xpsK6u4u8AdByBNrXuPVJhgayA5UBK-NuT9CdEOLl7ad9bwkRq6y5zzyUgTX"
+                  },
+                  "url": "https://www.lanacion.com.ar/espectaculos/personajes/la-actriz-lori-loughlin-full-house-cumple-nid2494808",
+                  "snippet": "La actriz Lori Loughlin, en 2019, al salir de una corte federal de Boston, tras una audiencia por el escándalo de los sobornos a universidades Fuente: Archivo&nbsp;..."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Lori+Loughlin#Lori%20Loughlin"
+            },
+            {
+              "title": {
+                "query": "Come Play",
+                "exploreLink": "/trends/explore?q=Come+Play&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "100K+",
+              "relatedQueries": [],
+              "image": {
+                "newsUrl": "https://www.post-gazette.com/ae/movies/2020/10/30/Movie-review-Come-Play-Gillian-Jacobs-Jacob-Chase-2020/stories/202010300051",
+                "source": "Pittsburgh Post-Gazette",
+                "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTta3E5l2PqX_e0eqzl0X1VcTS_xFCyz5Q_3Vs8ZV0TXSdz5ANcDGiK9JX04cln5pnG0DIx1C-0"
+              },
+              "articles": [
+                {
+                  "title": "Review: &#39;Come Play&#39; builds relatable horror screaming on all devices",
+                  "timeAgo": "23h ago",
+                  "source": "Pittsburgh Post-Gazette",
+                  "image": {
+                    "newsUrl": "https://www.post-gazette.com/ae/movies/2020/10/30/Movie-review-Come-Play-Gillian-Jacobs-Jacob-Chase-2020/stories/202010300051",
+                    "source": "Pittsburgh Post-Gazette",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTta3E5l2PqX_e0eqzl0X1VcTS_xFCyz5Q_3Vs8ZV0TXSdz5ANcDGiK9JX04cln5pnG0DIx1C-0"
+                  },
+                  "url": "https://www.post-gazette.com/ae/movies/2020/10/30/Movie-review-Come-Play-Gillian-Jacobs-Jacob-Chase-2020/stories/202010300051",
+                  "snippet": "These days, with the relentless crush of anxiety-inducing news, misinformation and bad takes just a thumb flick away on our ubiquitous screens, it really does&nbsp;..."
+                },
+                {
+                  "title": "Review: &#39;Come Play&#39; doesn&#39;t know what it&#39;s doing | AZ Big Media",
+                  "timeAgo": "12h ago",
+                  "source": "AZ Big Media",
+                  "image": {
+                    "newsUrl": "https://azbigmedia.com/lifestyle/consumer-news/movie-reviews/review-come-play-doesnt-know-what-its-doing/",
+                    "source": "AZ Big Media",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcT010Vu1GhJ9dhZzVCky0bMiuD3ja8V98LczJuf8hsZ1FgyFEvowkBi6hSrgWTl6RDXDrlQiCiN"
+                  },
+                  "url": "https://azbigmedia.com/lifestyle/consumer-news/movie-reviews/review-come-play-doesnt-know-what-its-doing/",
+                  "snippet": "Come Play has a lot in common with the 2016 horror movie Lights Out. Both were based on short, proof-of-concept horror films that landed the directors an&nbsp;..."
+                },
+                {
+                  "title": "&#39;Come Play&#39; filled with more clichés than scares",
+                  "timeAgo": "23h ago",
+                  "source": "Boston Herald",
+                  "image": {
+                    "newsUrl": "https://www.bostonherald.com/2020/10/30/come-play-filled-with-more-cliches-than-scares/",
+                    "source": "Boston Herald",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRxndAXgwchCvcfvLE-PLYZ6vhsq00v1bnC4tSpclE4JRxziyYCMkJHpyBnbuqFhLOs2fEcKXYV"
+                  },
+                  "url": "https://www.bostonherald.com/2020/10/30/come-play-filled-with-more-cliches-than-scares/",
+                  "snippet": "Written and directed by Jacob Chase and based on a 2017 short film by him, “Come Play” takes just about every cliché in the child-stalked-by-demons genre&nbsp;..."
+                },
+                {
+                  "title": "&#39;Come Play&#39; Review: Techno-boogeyman thriller offers routine ...",
+                  "timeAgo": "13h ago",
+                  "source": "KENS5.com",
+                  "image": {
+                    "newsUrl": "https://www.kens5.com/article/entertainment/movies/screen-test/come-play-movie-review-horror/273-d09e10d4-3d98-4d30-b953-096fce38cf84",
+                    "source": "KENS5.com",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSaUI_1Z_OIwVzUEZw2ebj0apAyjEYkFNNxuKVMvVQ7phYvOXx1Ac4Z3qyJtSerzFYc0YJsKhY6"
+                  },
+                  "url": "https://www.kens5.com/article/entertainment/movies/screen-test/come-play-movie-review-horror/273-d09e10d4-3d98-4d30-b953-096fce38cf84",
+                  "snippet": "Just in time for Halloween comes a thriller that mashes &quot;Black Mirror&quot; and &quot;The Babadook,&quot; to occasionally thrilling results."
+                },
+                {
+                  "title": "&#39;Come Play&#39; Review: Where the Wild Things Scar",
+                  "timeAgo": "18h ago",
+                  "source": "Rolling Stone",
+                  "image": {
+                    "newsUrl": "https://www.rollingstone.com/movies/movie-reviews/come-play-movie-review-gillian-jacobs-1081793/",
+                    "source": "Rolling Stone",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRm7xRDxSLEaP2UHOdoJLzwYb_31gNE9t0F6xBy6CKjw-U22H-l6NNHdC4O2LNPEftNT1FLFbSb"
+                  },
+                  "url": "https://www.rollingstone.com/movies/movie-reviews/come-play-movie-review-gillian-jacobs-1081793/",
+                  "snippet": "Meet Oliver (Azhy Robertson). He&#39;s eight years old or so, and is somewhere on the Autism spectrum. He loves SpongeBob Squarepants. Oliver doesn&#39;t talk,&nbsp;..."
+                },
+                {
+                  "title": "Come Play: A family-friendly horror film that&#39;s scary",
+                  "timeAgo": "19h ago",
+                  "source": "Newnan Times-Herald",
+                  "image": {
+                    "newsUrl": "https://times-herald.com/news/2020/10/come-play-a-family-friendly-horror-film-thats-scary",
+                    "source": "Newnan Times-Herald",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcT_bNTlnCy6NSIGeZSxPlFXazZYJZuT6f7FDKLQvJKX2KWBbMkTAFdJnVoUJBAm7A4JQJbbSkM0"
+                  },
+                  "url": "https://times-herald.com/news/2020/10/come-play-a-family-friendly-horror-film-thats-scary",
+                  "snippet": "Please consider making a donation so we can continue to bring you the latest news and information on COVID-19 in our community. Donate Now. Come Play: A&nbsp;..."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Come+Play#Come%20Play"
+            },
+            {
+              "title": {
+                "query": "Sue Bird",
+                "exploreLink": "/trends/explore?q=Sue+Bird&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "100K+",
+              "relatedQueries": [
+                {
+                  "query": "megan rapinoe",
+                  "exploreLink": "/trends/explore?q=megan+rapinoe&date=now+7-d&geo=US"
+                }
+              ],
+              "image": {
+                "newsUrl": "https://komonews.com/news/local/sue-bird-and-megan-rapinoe-share-engagement-photo-on-social-media",
+                "source": "KOMO News",
+                "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRVlSo3XYCPbP9lAmzGrFd-mx3pwR3w72oKFn_em22_QurhBmYDmx4acF7HX5VCJvMYAzDJgl5D"
+              },
+              "articles": [
+                {
+                  "title": "Sue Bird and Megan Rapinoe share engagement photo on social ...",
+                  "timeAgo": "10h ago",
+                  "source": "KOMO News",
+                  "image": {
+                    "newsUrl": "https://komonews.com/news/local/sue-bird-and-megan-rapinoe-share-engagement-photo-on-social-media",
+                    "source": "KOMO News",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRVlSo3XYCPbP9lAmzGrFd-mx3pwR3w72oKFn_em22_QurhBmYDmx4acF7HX5VCJvMYAzDJgl5D"
+                  },
+                  "url": "https://komonews.com/news/local/sue-bird-and-megan-rapinoe-share-engagement-photo-on-social-media",
+                  "snippet": "SEATTLE – Seattle&#39;s power couple are engaged. Seattle Storm&#39;s Sue Bird posted a picture on Instagram Friday that appears to show her girlfriend Seattle&nbsp;..."
+                },
+                {
+                  "title": "WNBA legend Sue Bird and soccer star Megan Rapinoe get engaged",
+                  "timeAgo": "8h ago",
+                  "source": "CBSSports.com",
+                  "image": {
+                    "newsUrl": "https://www.cbssports.com/wnba/news/wnba-legend-sue-bird-and-soccer-star-megan-rapinoe-get-engaged/",
+                    "source": "CBSSports.com",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcS2TzdAh9DpLpqeoJuFIODtI8xzYoW5gxQGOujs12t3ZP_Wvt5z_0H9jjf2CoJlLXaYifUjF7KA"
+                  },
+                  "url": "https://www.cbssports.com/wnba/news/wnba-legend-sue-bird-and-soccer-star-megan-rapinoe-get-engaged/",
+                  "snippet": "One of the biggest power couples in sports has secured a few more rings. Early on Friday evening, Seattle Storm guard Sue Bird posted a photo to Instagram&nbsp;..."
+                },
+                {
+                  "title": "Sue Bird, Megan Rapinoe announce engagement with Instagram pic",
+                  "timeAgo": "9h ago",
+                  "source": "ESPN",
+                  "image": {
+                    "newsUrl": "https://www.espn.com/espnw/sports/article/30225983/sue-bird-megan-rapinoe-announce-engagement-instagram-pic",
+                    "source": "ESPN",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSn-YxzyZlHI6yqzrjU-BhXJstViDOB6ar8rzqJlT6bYrP5q4Cw4ypbBZ-KGrGE-Tsl39SvV421"
+                  },
+                  "url": "https://www.espn.com/espnw/sports/article/30225983/sue-bird-megan-rapinoe-announce-engagement-instagram-pic",
+                  "snippet": "Sue Bird and Megan Rapinoe announced their engagement on social media with a photo of Rapinoe kneeling and placing a ring on Bird&#39;s hand."
+                },
+                {
+                  "title": "Power Couple Sue Bird and Megan Rapinoe Get Engaged",
+                  "timeAgo": "10h ago",
+                  "source": "Sports Illustrated",
+                  "url": "https://www.si.com/wnba/2020/10/31/sue-bird-megan-rapinoe-engaged",
+                  "snippet": "The power couple met at the 2016 Rio Olympics and were the first openly gay couple to appear on the cover of ESPN The Magazine&#39;s Body Issue."
+                },
+                {
+                  "title": "WNBA star Sue Bird, USWNT stalwart Megan Rapinoe announce ...",
+                  "timeAgo": "8h ago",
+                  "source": "USA TODAY",
+                  "image": {
+                    "newsUrl": "https://www.usatoday.com/story/sports/2020/10/30/sue-bird-megan-rapinoe-engaged/6094371002/",
+                    "source": "USA TODAY",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQVjBpt73Ep8Y8xTRIF42oUCoQIUaX1tb7vssuclBAG7AxkMKpiHoQXB0rqhhLqfEiEti4TWGAR"
+                  },
+                  "url": "https://www.usatoday.com/story/sports/2020/10/30/sue-bird-megan-rapinoe-engaged/6094371002/",
+                  "snippet": "WNBA star Sue Bird and USWNT standout Megan Rapinoe are engaged. Bird shared the news with a post on social media Friday night."
+                },
+                {
+                  "title": "Megan Rapinoe and Sue Bird get engaged after four years together",
+                  "timeAgo": "10h ago",
+                  "source": "Yahoo Sports",
+                  "image": {
+                    "newsUrl": "https://sports.yahoo.com/megan-rapinoe-and-sue-bird-get-engaged-after-four-years-together-234800872.html",
+                    "source": "Yahoo Sports",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQMMFrczdwOpc4uMbcyVC3O97qt1d9D80mKc5UwSDXMvW4_8fAsd5QwfE1zJ69k4-l1Us4zaoh0"
+                  },
+                  "url": "https://sports.yahoo.com/megan-rapinoe-and-sue-bird-get-engaged-after-four-years-together-234800872.html",
+                  "snippet": "Bird and Rapinoe have been together for four years. The couple started dating in 2017. Sue Bird, Megan Rapinoe look to continue winning streak. The news is yet&nbsp;..."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Sue+Bird#Sue%20Bird"
+            },
+            {
+              "title": {
+                "query": "LeAnn Rimes",
+                "exploreLink": "/trends/explore?q=LeAnn+Rimes&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "100K+",
+              "relatedQueries": [],
+              "image": {
+                "newsUrl": "https://www.cnn.com/style/article/leann-rimes-psoriasis-scli-intl-wellness/index.html",
+                "source": "CNN",
+                "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQh86BOX5M1BX3fcEe9yepW5xYTBVzok7S5NAPAaFLSFNQT2qPVa11dYpFRU_6U1ZIiFZ9t2ynb"
+              },
+              "articles": [
+                {
+                  "title": "LeAnn Rimes shares &#39;unabashedly honest&#39; photos of her psoriasis",
+                  "timeAgo": "20h ago",
+                  "source": "CNN",
+                  "image": {
+                    "newsUrl": "https://www.cnn.com/style/article/leann-rimes-psoriasis-scli-intl-wellness/index.html",
+                    "source": "CNN",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQh86BOX5M1BX3fcEe9yepW5xYTBVzok7S5NAPAaFLSFNQT2qPVa11dYpFRU_6U1ZIiFZ9t2ynb"
+                  },
+                  "url": "https://www.cnn.com/style/article/leann-rimes-psoriasis-scli-intl-wellness/index.html",
+                  "snippet": "Country star LeAnn Rimes has opened up about her struggle with psoriasis, sharing photographs of her skin on Instagram."
+                },
+                {
+                  "title": "LeAnn Rimes is &#39;tired of hiding&#39; her psoriasis, shows off skin in ...",
+                  "timeAgo": "15h ago",
+                  "source": "USA TODAY",
+                  "image": {
+                    "newsUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/10/30/leann-rimes-reveals-psoriasis-powerful-essay-photos/6087018002/",
+                    "source": "USA TODAY",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQoE35xFUV-xFXX-sc_LZwiGy53vyH8S96Lb_naw4-uvSZmosPYvuRsXemwwTDf0tkyRj0pb38k"
+                  },
+                  "url": "https://www.usatoday.com/story/entertainment/celebrities/2020/10/30/leann-rimes-reveals-psoriasis-powerful-essay-photos/6087018002/",
+                  "snippet": "LeAnn Rimes says the stressors of 2020 have caused her psoriasis to flare up and this time she is &#39;tired of hiding&#39; it."
+                },
+                {
+                  "title": "Singer LeAnn Rimes goes nude to reveal painful skin disease",
+                  "timeAgo": "2h ago",
+                  "source": "Yahoo Finance Australia",
+                  "image": {
+                    "newsUrl": "https://au.finance.yahoo.com/news/leann-rimes-nude-psoriasis-tired-of-hiding-014331014.html",
+                    "source": "Yahoo Finance Australia",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQyEBfOWUPUGZF2TWiARmnMqAiWhYAoGET3fQn8Adz10-dYA4W-PqzDiYUCPzu1JWldJTqkd1iy"
+                  },
+                  "url": "https://au.finance.yahoo.com/news/leann-rimes-nude-psoriasis-tired-of-hiding-014331014.html",
+                  "snippet": "The Coyote Ugly star was &#39;tired of hiding&#39; her ongoing battle with psoriasis."
+                },
+                {
+                  "title": "Rimes&#39; reveal: Country star goes naked for psoriasis",
+                  "timeAgo": "11h ago",
+                  "source": "New York Daily News",
+                  "image": {
+                    "newsUrl": "https://www.nydailynews.com/snyde/ny-leeann-rimes-psoriasis-20201030-3yyapucn35dvdjdlcjc564vyvy-story.html",
+                    "source": "New York Daily News",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSnCz_2fysh6160HMz9PEnX5rFLxvZhLt0r4SQnWVMqIe8C2WceuCvufjwj2EsWeh0mkJKRvBxo"
+                  },
+                  "url": "https://www.nydailynews.com/snyde/ny-leeann-rimes-psoriasis-20201030-3yyapucn35dvdjdlcjc564vyvy-story.html",
+                  "snippet": "LeAnn Rimes reveals naked truth about her lifelong battle with psoriasis. By Storm Gifford. New York Daily News |. Oct 30, 2020 at 6:41 PM. LeAnn Rimes is baring&nbsp;..."
+                },
+                {
+                  "title": "LeAnn Rimes poses nude in a candid post about psoriasis",
+                  "timeAgo": "18h ago",
+                  "source": "Page Six",
+                  "image": {
+                    "newsUrl": "https://pagesix.com/2020/10/30/leann-rimes-poses-nude-in-a-candid-post-about-psoriasis/",
+                    "source": "Page Six",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcS72hukwKVqB12Qj0AcNTRVwFgUEqXdniFXpcJ3zXZO95DlSbxYy7TfcFD0sWQD-jePyohywZW_"
+                  },
+                  "url": "https://pagesix.com/2020/10/30/leann-rimes-poses-nude-in-a-candid-post-about-psoriasis/",
+                  "snippet": "LeAnn Rimes — who was diagnosed with psoriasis when she was 2 years old — stripped down in a post about what it looks like to live with the condition."
+                },
+                {
+                  "title": "LeAnn Rimes Poses Nude and Embraces Her Psoriasis",
+                  "timeAgo": "21h ago",
+                  "source": "Entertainment Tonight",
+                  "image": {
+                    "newsUrl": "https://www.etonline.com/leann-rimes-poses-nude-and-embraces-her-psoriasis-155641",
+                    "source": "Entertainment Tonight",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRRcABWSrlqtKYJ3KlL_m5tlRLh0mGrsAAmnzcoU9A2KjHFHTqHEIS-6yQuEhXIdE97i0A07KDp"
+                  },
+                  "url": "https://www.etonline.com/leann-rimes-poses-nude-and-embraces-her-psoriasis-155641",
+                  "snippet": "According to the Mayo Clinic, psoriasis is &quot;a skin disease that causes red, itchy scaly patches, most commonly on the knees, elbows, backside and scalp.&quot; Kim&nbsp;..."
+                },
+                {
+                  "title": "LeAnn Rimes Shares &#39;Unabashedly Honest&#39; Photos of Her Psoriasis ...",
+                  "timeAgo": "16h ago",
+                  "source": "PEOPLE.com",
+                  "image": {
+                    "newsUrl": "https://people.com/health/leann-rimes-shares-honest-photos-psoriasis/",
+                    "source": "PEOPLE.com",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSxhekVVEBf76H91m6KwTgJkNnlMRbkAMQ4cWh66chXBh0bWbJfU3Y1FCj_MqcO4y6uyc1emaer"
+                  },
+                  "url": "https://people.com/health/leann-rimes-shares-honest-photos-psoriasis/",
+                  "snippet": "When I look at these photos, I see so much more than my skin,” the singer said."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=LeAnn+Rimes#LeAnn%20Rimes"
+            },
+            {
+              "title": {
+                "query": "Steve Cohen",
+                "exploreLink": "/trends/explore?q=Steve+Cohen&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "100K+",
+              "relatedQueries": [],
+              "image": {
+                "newsUrl": "https://www.espn.com/mlb/story/_/id/30224369/mlb-owners-approve-sale-new-york-mets-billionaire-steve-cohen-source-says",
+                "source": "ESPN",
+                "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRHk2AX9ZK8sUtksYiO2Inz7XG6ITbdKWAfJD492OF1B9QugP2pCtk5lzWFMu3tfC2v0NhpfnSf"
+              },
+              "articles": [
+                {
+                  "title": "MLB owners approve sale of New York Mets to billionaire Steve ...",
+                  "timeAgo": "12h ago",
+                  "source": "ESPN",
+                  "image": {
+                    "newsUrl": "https://www.espn.com/mlb/story/_/id/30224369/mlb-owners-approve-sale-new-york-mets-billionaire-steve-cohen-source-says",
+                    "source": "ESPN",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRHk2AX9ZK8sUtksYiO2Inz7XG6ITbdKWAfJD492OF1B9QugP2pCtk5lzWFMu3tfC2v0NhpfnSf"
+                  },
+                  "url": "https://www.espn.com/mlb/story/_/id/30224369/mlb-owners-approve-sale-new-york-mets-billionaire-steve-cohen-source-says",
+                  "snippet": "Billionaire Steve Cohen got the votes he needed from MLB owners to become the new majority owner of the Mets with a 95% stake. The sale values the&nbsp;..."
+                },
+                {
+                  "title": "Steven Cohen Is Approved as Mets Owner After Clearing 2 Final ...",
+                  "timeAgo": "12h ago",
+                  "source": "The New York Times",
+                  "image": {
+                    "newsUrl": "https://www.nytimes.com/2020/10/30/sports/baseball/steve-cohen-mets-approved.html",
+                    "source": "The New York Times",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTweeBgj_4hmlYhWf0SxDSyQpMKae5D23EAP2lakRi1AP7u0v6kFU8iyO0XvRPwRuGwrq611vAF"
+                  },
+                  "url": "https://www.nytimes.com/2020/10/30/sports/baseball/steve-cohen-mets-approved.html",
+                  "snippet": "M.L.B.&#39;s owners voted to approve Cohen&#39;s $2.4 billion purchase of the team, and New York City signed off on his taking over the lease of Citi Field."
+                },
+                {
+                  "title": "Who is Steve Cohen? 5 things to know about Mets&#39; new owner | Just ...",
+                  "timeAgo": "15h ago",
+                  "source": "nj.com",
+                  "image": {
+                    "newsUrl": "https://www.nj.com/yankees/2020/10/who-is-steve-cohen-what-you-need-to-know-about-mets-new-owner.html",
+                    "source": "nj.com",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSEe6V2jMmSORQ-XaEkTxgamTOM_GrQnCuUFNztpLr89KBzcD5lQLW7enMloj9fYkGpKIhbY66U"
+                  },
+                  "url": "https://www.nj.com/yankees/2020/10/who-is-steve-cohen-what-you-need-to-know-about-mets-new-owner.html",
+                  "snippet": "Major League Baseball has signed off on the deal which gives control of the New York Mets to billionaire hedge fund manager Steve Cohen."
+                },
+                {
+                  "title": "Steve Cohen Buying The New York Mets Is A Dream Come True For ...",
+                  "timeAgo": "2h ago",
+                  "source": "Forbes",
+                  "image": {
+                    "newsUrl": "https://www.forbes.com/sites/jerrybeach/2020/10/31/steve-cohen-buying-the-new-york-mets-is-a-dream-come-true-for-fans-and-a-nightmare-for-the-wilpons/",
+                    "source": "Forbes",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSbOf0tN-Ukciy47RPlHtVS5LGzNZ6OcJpelvRhcg09Xrufrbbe4xFaD6FRYh3kveuW9IyJtEdp"
+                  },
+                  "url": "https://www.forbes.com/sites/jerrybeach/2020/10/31/steve-cohen-buying-the-new-york-mets-is-a-dream-come-true-for-fans-and-a-nightmare-for-the-wilpons/",
+                  "snippet": "That&#39;s how deep the contempt within the fanbase runs for the Wilpon family, and how ecstatic fans are to see former minority owner Steve Cohen become&nbsp;..."
+                },
+                {
+                  "title": "Steve Cohen officially owns the New York Mets after MLB approves ...",
+                  "timeAgo": "15h ago",
+                  "source": "CNBC",
+                  "image": {
+                    "newsUrl": "https://www.cnbc.com/2020/10/30/steve-cohen-officially-owner-of-new-york-mets-mlb.html",
+                    "source": "CNBC",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcS6Sy3P9k2a3E43qygPFR32xx3TDJN-Z2XKml3iWrYQiNonLmT62SOiLsZlS0ux1FdT9AmvqDfh"
+                  },
+                  "url": "https://www.cnbc.com/2020/10/30/steve-cohen-officially-owner-of-new-york-mets-mlb.html",
+                  "snippet": "Major League Baseball club owners and New York City Mayor Bill de Blasio approved of Steve Cohen&#39;s purchase of the New York Mets."
+                },
+                {
+                  "title": "MLB Owners Approve Sale Of New York Mets To Steve Cohen; De ...",
+                  "timeAgo": "13h ago",
+                  "source": "CBS New York",
+                  "image": {
+                    "newsUrl": "https://newyork.cbslocal.com/2020/10/30/mlb-owners-to-vote-on-steve-cohens-bid-to-buy-the-mets-but-de-blasio-administration-could-stand-in-the-way/",
+                    "source": "CBS New York",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTUvOximarv7wV30_qukeZItioSXnhGDCMi1wlCfOJm7nYF_7OSaws4B4zW-Q7r2VZv0uFGEqMi"
+                  },
+                  "url": "https://newyork.cbslocal.com/2020/10/30/mlb-owners-to-vote-on-steve-cohens-bid-to-buy-the-mets-but-de-blasio-administration-could-stand-in-the-way/",
+                  "snippet": "An entity controlled by Cohen will own 95% of the franchise, and the Wilpon and Katz families will retain 5% of the team. Former Mets general manager Sandy&nbsp;..."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Steve+Cohen#Steve%20Cohen"
+            },
+            {
+              "title": {
+                "query": "Google Doodle",
+                "exploreLink": "/trends/explore?q=Google+Doodle&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "50K+",
+              "relatedQueries": [],
+              "image": {
+                "newsUrl": "https://www.forbes.com/sites/kionasmith/2020/10/31/dive-into-halloween-with-todays-google-doodle/",
+                "source": "Forbes",
+                "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRyr_WTkDvF0s4ZU0PwtLbJ3RTU2aICp-n20AjuiA85iQZh0T27A2-sqXykRQ5ivsVuQgXYpzTA"
+              },
+              "articles": [
+                {
+                  "title": "Dive Into Halloween With Today&#39;s Google Doodle",
+                  "timeAgo": "4h ago",
+                  "source": "Forbes",
+                  "image": {
+                    "newsUrl": "https://www.forbes.com/sites/kionasmith/2020/10/31/dive-into-halloween-with-todays-google-doodle/",
+                    "source": "Forbes",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRyr_WTkDvF0s4ZU0PwtLbJ3RTU2aICp-n20AjuiA85iQZh0T27A2-sqXykRQ5ivsVuQgXYpzTA"
+                  },
+                  "url": "https://www.forbes.com/sites/kionasmith/2020/10/31/dive-into-halloween-with-todays-google-doodle/",
+                  "snippet": "The 2020 Halloween Google Doodle takes you on a deep dive into the darkest depths of the ocean to fight ghosts and sea monsters."
+                },
+                {
+                  "title": "Google Doodle brings back a magic cat for a fun Halloween game",
+                  "timeAgo": "18h ago",
+                  "source": "For The Win",
+                  "image": {
+                    "newsUrl": "https://ftw.usatoday.com/2020/10/google-doodle-game-halloween-cat-academy-sequel-2020",
+                    "source": "For The Win",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRApb7Rhi2oMD-Q4u7LZ4WgnXmDYoinPk5KIl2WwVnH9U5lk_Z1xZ6lMj_klQulrKVOvBaS56dP"
+                  },
+                  "url": "https://ftw.usatoday.com/2020/10/google-doodle-game-halloween-cat-academy-sequel-2020",
+                  "snippet": "Share this article. share. tweet. text. email. link. on Facebook. on Twitter. via text message. on LinkedIn. via email. https://ftw.usatoday.com/2020/10/google-doodle-&nbsp;..."
+                },
+                {
+                  "title": "New, playable Google Doodle brings back Halloween&#39;s cutest cat ...",
+                  "timeAgo": "14h ago",
+                  "source": "Polygon",
+                  "image": {
+                    "newsUrl": "https://www.polygon.com/2020/10/30/21542406/google-doodle-halloween-2020-momo-cat-wizard",
+                    "source": "Polygon",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQUtK1A6fm_F9zZrvQSOgXnZSFUS7ehgzWaUsLidGTf9nb1uImDKliSSeKA8rcC6F9wk-0RxetJ"
+                  },
+                  "url": "https://www.polygon.com/2020/10/30/21542406/google-doodle-halloween-2020-momo-cat-wizard",
+                  "snippet": "Google&#39;s 2020 Halloween Doodle is a gestural micro-game where you take a cat wizard into the depths of the ocean to fight ghosts. It&#39;s a sequel to the 2016&nbsp;..."
+                },
+                {
+                  "title": "Google&#39;s 2020 Halloween Doodle Game is Addictive Fun",
+                  "timeAgo": "16h ago",
+                  "source": "wobm.com",
+                  "image": {
+                    "newsUrl": "https://wobm.com/google-2020-halloween-doodle-magic-cat/",
+                    "source": "wobm.com",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTrLA7EdoU8IAMT3PbPZxizV0fWMSf4NdCebqtZr2EqcUqfunVPp4LEVYEsVCG28sY5xkrBsMzI"
+                  },
+                  "url": "https://wobm.com/google-2020-halloween-doodle-magic-cat/",
+                  "snippet": "Google celebrated Halloween 2020 with a sequel to a well-loved game from its past, an underwater-based sequel to &#39;Magic Cat Academy.&#39;"
+                },
+                {
+                  "title": "Halloween Google Doodle Brings Back Momo For New Magic Cat ...",
+                  "timeAgo": "1d ago",
+                  "source": "Newsweek",
+                  "image": {
+                    "newsUrl": "https://www.newsweek.com/google-doodle-halloween-momo-magic-cat-academy-game-1543455",
+                    "source": "Newsweek",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQcHDT6zm6nPnBgPtWSYaF6GGeHhy52jMQO5BJUJxtqYX_wMiqm5iKIF3k29HUF60xHjNKBx7ma"
+                  },
+                  "url": "https://www.newsweek.com/google-doodle-halloween-momo-magic-cat-academy-game-1543455",
+                  "snippet": "Momo has returned for this year&#39;s Halloween Google Doodle with a new Magic Cat Academy game where she must dive into the ocean to help new friends&nbsp;..."
+                },
+                {
+                  "title": "Momo the Cat is back for the 2020 Halloween Google Doodle",
+                  "timeAgo": "13h ago",
+                  "source": "Chrome Unboxed",
+                  "image": {
+                    "newsUrl": "https://chromeunboxed.com/momo-the-cat-is-back-for-the-2020-halloween-google-doodle/",
+                    "source": "Chrome Unboxed",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQLu9c2F9zmJU-5dvN15DFWLCOE-r6g0mmwg6EGgX1btulNAvcHlcvOe3-TuoE0jnrEwadNhh88"
+                  },
+                  "url": "https://chromeunboxed.com/momo-the-cat-is-back-for-the-2020-halloween-google-doodle/",
+                  "snippet": "After a brief, four-year hiatus, Momo the Cat is back for another round of shape-swiping fun as Google&#39;s Halloween Doodle game returns to Google.com."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Google+Doodle#Google%20Doodle"
+            },
+            {
+              "title": {
+                "query": "Brett Favre",
+                "exploreLink": "/trends/explore?q=Brett+Favre&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "50K+",
+              "relatedQueries": [],
+              "image": {
+                "newsUrl": "https://www.cnn.com/2020/10/30/politics/brett-favre-endorses-trump-trnd/index.html",
+                "source": "CNN",
+                "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTYckqWADAgQh90bWHcilaeQxsPX916XhOfBmMdmb1VU5oEFLtCsxULtCAEr8tmp0L6O6m6Azez"
+              },
+              "articles": [
+                {
+                  "title": "Brett Favre and Bobby Orr endorse Trump - CNNPolitics",
+                  "timeAgo": "13h ago",
+                  "source": "CNN",
+                  "image": {
+                    "newsUrl": "https://www.cnn.com/2020/10/30/politics/brett-favre-endorses-trump-trnd/index.html",
+                    "source": "CNN",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTYckqWADAgQh90bWHcilaeQxsPX916XhOfBmMdmb1VU5oEFLtCsxULtCAEr8tmp0L6O6m6Azez"
+                  },
+                  "url": "https://www.cnn.com/2020/10/30/politics/brett-favre-endorses-trump-trnd/index.html",
+                  "snippet": "The two men are among some of the most prominent figures in sports to have publicly pledged support for the President."
+                },
+                {
+                  "title": "Packers legend Brett Favre endorses President Donald Trump: &#39;My ...",
+                  "timeAgo": "16h ago",
+                  "source": "Yahoo Sports",
+                  "image": {
+                    "newsUrl": "https://sports.yahoo.com/packers-legend-brett-favre-endorses-president-donald-trump-my-vote-is-for-what-makes-this-country-great-174033665.html",
+                    "source": "Yahoo Sports",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcR8GhfByVMrDU5v1UyorEZkhAGfHVZx7H3QHsrUCzPuImlTLkty9lusFVOi-k9SwmxKeiWl4CH6"
+                  },
+                  "url": "https://sports.yahoo.com/packers-legend-brett-favre-endorses-president-donald-trump-my-vote-is-for-what-makes-this-country-great-174033665.html",
+                  "snippet": "Brett Favre joins Jack Nicklaus and John Daly in supporting Donald Trump in 2020."
+                },
+                {
+                  "title": "Former Packers quarterback Brett Favre endorses President Donald ...",
+                  "timeAgo": "19h ago",
+                  "source": "Green Bay Press Gazette",
+                  "image": {
+                    "newsUrl": "https://www.greenbaypressgazette.com/story/news/2020/10/30/2020-election-brett-favre-endorses-donald-trump-president/6083817002/",
+                    "source": "Green Bay Press Gazette",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTwcb710kr2zl5d_RP-MXFwXrbNuREuwZviZRJZgBHt6iA6PSFI6dOetDZAcOCVxhFVKcEXR3HL"
+                  },
+                  "url": "https://www.greenbaypressgazette.com/story/news/2020/10/30/2020-election-brett-favre-endorses-donald-trump-president/6083817002/",
+                  "snippet": "Favre&#39;s endorsement came months after the Hall of Fame quarterback played golf with Trump at one of the president&#39;s golf clubs in New Jersey."
+                },
+                {
+                  "title": "NFL great Brett Favre throws support to President Trump",
+                  "timeAgo": "13h ago",
+                  "source": "Fox News",
+                  "image": {
+                    "newsUrl": "https://www.foxnews.com/sports/brett-favre-support-trump-2020-presidential-election",
+                    "source": "Fox News",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSCK5ycrUoHar-xO4SQivNQxTggGjZzHSUjYThvuOREjvCnOiDGfpki0zihxu6IOvH0X1IrWXWi"
+                  },
+                  "url": "https://www.foxnews.com/sports/brett-favre-support-trump-2020-presidential-election",
+                  "snippet": "The three-time NFL MVP cast his support for Trump&#39;s reelection bid on Friday. He tweeted his support for the president and made clear where he stands on some&nbsp;..."
+                },
+                {
+                  "title": "Brett Favre Endorses Donald Trump Because He Believes in ...",
+                  "timeAgo": "9h ago",
+                  "source": "Slate Magazine",
+                  "image": {
+                    "newsUrl": "https://slate.com/culture/2020/10/brett-favre-endorses-donald-trump.html",
+                    "source": "Slate Magazine",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQfwXIAu8KxykZxvhxk512eekgWR6UYSB5G6K0n15f6DWXvMeTPhDvIecEf9rRUa4fsGPEk14xG"
+                  },
+                  "url": "https://slate.com/culture/2020/10/brett-favre-endorses-donald-trump.html",
+                  "snippet": "In a town hall event held by conservative television hydra Sinclair Broadcasting last Tuesday, host Eric Bolling coyly told Donald Trump that “a friend of mine”&nbsp;..."
+                },
+                {
+                  "title": "Packers Hall of Famer Brett Favre endorses President Trump",
+                  "timeAgo": "18h ago",
+                  "source": "Madison.com",
+                  "image": {
+                    "newsUrl": "https://madison.com/wsj/news/local/govt-and-politics/packers-hall-of-famer-brett-favre-endorses-president-trump/article_c4c7a5f8-019b-5575-925e-d05a6a059607.html",
+                    "source": "Madison.com",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ7ALuNfrxqIpUnzABkwq0mu3vOa1J2Bk00q6hVfAZXuucPTaTWx2hKzTieafS61Numv45vXFo8"
+                  },
+                  "url": "https://madison.com/wsj/news/local/govt-and-politics/packers-hall-of-famer-brett-favre-endorses-president-trump/article_c4c7a5f8-019b-5575-925e-d05a6a059607.html",
+                  "snippet": "Packers Hall of Famer Brett Favre endorsed President Donald Trump on Friday morning, aligning himself with former Bears quarterback Jay Cutler and against&nbsp;..."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Brett+Favre#Brett%20Favre"
+            },
+            {
+              "title": {
+                "query": "Maryland football",
+                "exploreLink": "/trends/explore?q=Maryland+football&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "50K+",
+              "relatedQueries": [],
+              "image": {
+                "newsUrl": "http://wmucsports.net/maryland-football-hosts-minnesota-in-2020-home-opener/",
+                "source": "wmucsports.net",
+                "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcR3Oxmy8FbF5KiQtCc7234AK5k69k9ErmiuIQ5jnw8dC5nLduBdVomqY2vrmoq4z-vAN_Z9kJbd"
+              },
+              "articles": [
+                {
+                  "title": "Maryland Football Hosts Minnesota in 2020 Home Opener - WMUC ...",
+                  "timeAgo": "19h ago",
+                  "source": "wmucsports.net",
+                  "image": {
+                    "newsUrl": "http://wmucsports.net/maryland-football-hosts-minnesota-in-2020-home-opener/",
+                    "source": "wmucsports.net",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcR3Oxmy8FbF5KiQtCc7234AK5k69k9ErmiuIQ5jnw8dC5nLduBdVomqY2vrmoq4z-vAN_Z9kJbd"
+                  },
+                  "url": "http://wmucsports.net/maryland-football-hosts-minnesota-in-2020-home-opener/",
+                  "snippet": "Suffering a 40-point loss last Saturday night against Northwestern, Maryland (0-1 B1G) is looking to bounce back against Minnesota (0-1 B1G) tonight."
+                },
+                {
+                  "title": "Taulia Tagovailoa rallies Maryland past Minnesota in overtime",
+                  "timeAgo": "4h ago",
+                  "source": "Washington Post",
+                  "image": {
+                    "newsUrl": "https://www.washingtonpost.com/sports/2020/10/31/maryland-minnesota-football-tagovailoa/",
+                    "source": "Washington Post",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRu24tHWzhocjz1wBLf9No2-5I960PcMMUg72i3BoC4jYFDbc_iIEDlEn5mZZF2xS6QT_-Tk9qW"
+                  },
+                  "url": "https://www.washingtonpost.com/sports/2020/10/31/maryland-minnesota-football-tagovailoa/",
+                  "snippet": "Taulia Tagovailoa, Maryland sophomore quarterback, shines as the Terps rally from 17 down to beat the Golden Gophers in overtime, 45-44."
+                },
+                {
+                  "title": "Maryland football mounts major comeback, sinks Minnesota 45-44",
+                  "timeAgo": "5h ago",
+                  "source": "Testudo Times",
+                  "image": {
+                    "newsUrl": "https://www.testudotimes.com/maryland-terps-football/2020/10/30/21542862/maryland-football-vs-minnesota-recap-stats-result-taulia-tagovailoa-jake-funk-overtime-comeback",
+                    "source": "Testudo Times",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSpOezARqbXZa8OEesWsgA5dmppeuI5gDQNkAY1UEvRLyQHo48ibZyV5B0mVPG0A0D9bv03KnBn"
+                  },
+                  "url": "https://www.testudotimes.com/maryland-terps-football/2020/10/30/21542862/maryland-football-vs-minnesota-recap-stats-result-taulia-tagovailoa-jake-funk-overtime-comeback",
+                  "snippet": "The much-improved Maryland offense helped carry the Terps to victory despite lackluster defense."
+                },
+                {
+                  "title": "Tagovailoa explodes as Maryland pulls off momentous comeback win",
+                  "timeAgo": "6h ago",
+                  "source": "247Sports",
+                  "image": {
+                    "newsUrl": "https://247sports.com/college/maryland/Article/Taulia-Tagovailoa-Maryland-football-beat-Minnesota-Golden-Gophers-45-44-153898714/",
+                    "source": "247Sports",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcT_HoOSvg8cluQNDTHhnxS7rT8jck34o2wS9fcDNrLO6A9fz4BDXC1zyvt-0awCNQusZVbWMi1U"
+                  },
+                  "url": "https://247sports.com/college/maryland/Article/Taulia-Tagovailoa-Maryland-football-beat-Minnesota-Golden-Gophers-45-44-153898714/",
+                  "snippet": "If Mike Locksley is able to turn around the Maryland football program, this might be the day many will look back on as a turning point."
+                },
+                {
+                  "title": "Maryland vs. Minnesota Live updates Score, results, highlights, for ...",
+                  "timeAgo": "14h ago",
+                  "source": "CBSSports.com",
+                  "image": {
+                    "newsUrl": "https://www.cbssports.com/college-football/news/maryland-vs-minnesota-live-updates-score-results-highlights-for-fridays-ncaa-football-game/live/",
+                    "source": "CBSSports.com",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSZ7viw7xO2NlH7duDzhGGLnJm5IqoU2lpxKOi6g5us2Fmd8ztbACwvAnZ45TQZapMZJCt-gaOI"
+                  },
+                  "url": "https://www.cbssports.com/college-football/news/maryland-vs-minnesota-live-updates-score-results-highlights-for-fridays-ncaa-football-game/live/",
+                  "snippet": "The Maryland Terrapins and the Minnesota Golden Gophers are even-steven against one another since October of 2016 (2-2), but not for long. Maryland and&nbsp;..."
+                },
+                {
+                  "title": "Taulia Tagovailoa&#39;s standout night leads Maryland football to ...",
+                  "timeAgo": "6h ago",
+                  "source": "Washington Times",
+                  "image": {
+                    "newsUrl": "https://www.washingtontimes.com/news/2020/oct/30/taulia-tagovailoas-standout-night-leads-maryland-f/",
+                    "source": "Washington Times",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcS5hrQukA_SSABi1uErxjiA3D8VT29akk8nsPFXkQW-OEaNalKGzqXBXJGlEW7XWGLO4R62bNxj"
+                  },
+                  "url": "https://www.washingtontimes.com/news/2020/oct/30/taulia-tagovailoas-standout-night-leads-maryland-f/",
+                  "snippet": "Taulia Tagovailoa poured on 394 yards on 26-for-35 passing and added another 59 yards on the ground and five total touchdowns. He became the first&nbsp;..."
+                },
+                {
+                  "title": "How to watch / listen / stream Minnesota vs. Maryland Football",
+                  "timeAgo": "21h ago",
+                  "source": "247Sports",
+                  "image": {
+                    "newsUrl": "https://247sports.com/college/minnesota/Article/How-to-watch-Minnesota-Maryland-Football-TV-Channel-Streaming-Link-Time-Channel-153667403/",
+                    "source": "247Sports",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQZvs8AckGTaYedGrjNTQQGxULj-YuPh-kUlsswLzhUbifJjrkubWp6ogAsdYDk5lT-8FACx09V"
+                  },
+                  "url": "https://247sports.com/college/minnesota/Article/How-to-watch-Minnesota-Maryland-Football-TV-Channel-Streaming-Link-Time-Channel-153667403/",
+                  "snippet": "For those wondering how to watch or listen or stream the Minnesota Gophers away game against the Maryland Terrapins, check out the information below."
+                },
+                {
+                  "title": "Maryland vs. Minnesota: How to watch, schedule, live stream info ...",
+                  "timeAgo": "21h ago",
+                  "source": "CBSSports.com",
+                  "image": {
+                    "newsUrl": "https://www.cbssports.com/college-football/news/maryland-vs-minnesota-how-to-watch-schedule-live-stream-info-game-time-tv-channel/",
+                    "source": "CBSSports.com",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRqTjYN1xZHqiQp4cQq9uDqgFu7HL_5OcGgTJ4HVuXd5oHdWYnSnKn3-c4nE256xaphw3DZU2kn"
+                  },
+                  "url": "https://www.cbssports.com/college-football/news/maryland-vs-minnesota-how-to-watch-schedule-live-stream-info-game-time-tv-channel/",
+                  "snippet": "The Maryland Terrapins were expected to take an &#39;L&#39; in this one, but so far it isn&#39;t playing out to script. They are way out in front after one quarter with a 21-7 lead&nbsp;..."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Maryland+football#Maryland%20football"
+            },
+            {
+              "title": {
+                "query": "Lorraine Bracco",
+                "exploreLink": "/trends/explore?q=Lorraine+Bracco&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "50K+",
+              "relatedQueries": [],
+              "image": {
+                "newsUrl": "https://www.thewrap.com/lorraine-bracco-my-big-italian-adventure-hgtv/",
+                "source": "TheWrap",
+                "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTs9eeMf4OYqiUdQv6pjQVSUpfIW9bBLtVkHvYH1RvKeQyORPJiCi7rd2XVOrPw05bdBiKoh9Zz"
+              },
+              "articles": [
+                {
+                  "title": "How Lorraine Bracco Gamed the System for HGTV&#39;s &#39;My Big Italian ...",
+                  "timeAgo": "17h ago",
+                  "source": "TheWrap",
+                  "image": {
+                    "newsUrl": "https://www.thewrap.com/lorraine-bracco-my-big-italian-adventure-hgtv/",
+                    "source": "TheWrap",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTs9eeMf4OYqiUdQv6pjQVSUpfIW9bBLtVkHvYH1RvKeQyORPJiCi7rd2XVOrPw05bdBiKoh9Zz"
+                  },
+                  "url": "https://www.thewrap.com/lorraine-bracco-my-big-italian-adventure-hgtv/",
+                  "snippet": "You&#39;d think Lorraine Bracco would&#39;ve been to Italy by now, but it took a one-Euro home and HGTV to get her there."
+                },
+                {
+                  "title": "Is &#39;My Big Italian Adventure&#39; Star Lorraine Bracco Married?",
+                  "timeAgo": "16h ago",
+                  "source": "Distractify",
+                  "image": {
+                    "newsUrl": "https://www.distractify.com/p/is-lorraine-bracco-married",
+                    "source": "Distractify",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQoTHG14EmXNqrk95EPFmJU0W_9QnfTToPlesu4QgkUZ7OhLkaNVqM8RhXtJWTG-YaPXloX3V2I"
+                  },
+                  "url": "https://www.distractify.com/p/is-lorraine-bracco-married",
+                  "snippet": "Is Lorraine Bracco married? The actress is known for playing a therapist on &#39;The Sopranos,&#39; and she&#39;s renovating a house in &#39;My Big Italian Adventure.&#39;"
+                },
+                {
+                  "title": "&#39;Sopranos&#39; star Lorraine Bracco discusses the show&#39;s most ...",
+                  "timeAgo": "16h ago",
+                  "source": "AOL",
+                  "image": {
+                    "newsUrl": "https://www.aol.com/article/entertainment/2020/10/30/sopranos-star-lorraine-bracco-discusses-the-shows-most-controversial-storyline/24668594/",
+                    "source": "AOL",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSdzPJuHfyXNgL5adBgTSOyTGHgHQtDxtddUvR7LgNr1LJGVoK6ebAAK-ZCUTSrwoKIk-s2zOz-"
+                  },
+                  "url": "https://www.aol.com/article/entertainment/2020/10/30/sopranos-star-lorraine-bracco-discusses-the-shows-most-controversial-storyline/24668594/",
+                  "snippet": "Lorraine Bracco opened up about the scene where her character is sexually assaulted in a parking garage by a man who is later caught by the police."
+                },
+                {
+                  "title": "How to watch My Big Italian Adventure online from anywhere",
+                  "timeAgo": "20h ago",
+                  "source": "Android Central",
+                  "image": {
+                    "newsUrl": "https://www.androidcentral.com/how-watch-my-big-italian-adventure-online-anywhere",
+                    "source": "Android Central",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ94WknnV4eBckDkHvBal_M63rQohdO4aETxNVMbhNiy-r0hHFm4xSoWH5kC1RBIldhXbGcKVLT"
+                  },
+                  "url": "https://www.androidcentral.com/how-watch-my-big-italian-adventure-online-anywhere",
+                  "snippet": "We&#39;ll show you how to watch Lorraine Bracco renovate her new Italian home in My Big Italian Adventure online from anywhere."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Lorraine+Bracco#Lorraine%20Bracco"
+            },
+            {
+              "title": {
+                "query": "AJ Hinch",
+                "exploreLink": "/trends/explore?q=AJ+Hinch&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "50K+",
+              "relatedQueries": [],
+              "image": {
+                "newsUrl": "https://www.espn.com/mlb/story/_/id/30223996/detroit-tigers-name-aj-hinch-manager-mlb-suspension-ends",
+                "source": "ESPN",
+                "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSv4DcJoTqRHIVAL3Ka4URI8RjcFPVs7xasncOUlk43WYrSyjlfqGqw-3WszHhcGoyI3GBEZyDm"
+              },
+              "articles": [
+                {
+                  "title": "Detroit Tigers name AJ Hinch manager as MLB suspension ends",
+                  "timeAgo": "13h ago",
+                  "source": "ESPN",
+                  "image": {
+                    "newsUrl": "https://www.espn.com/mlb/story/_/id/30223996/detroit-tigers-name-aj-hinch-manager-mlb-suspension-ends",
+                    "source": "ESPN",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSv4DcJoTqRHIVAL3Ka4URI8RjcFPVs7xasncOUlk43WYrSyjlfqGqw-3WszHhcGoyI3GBEZyDm"
+                  },
+                  "url": "https://www.espn.com/mlb/story/_/id/30223996/detroit-tigers-name-aj-hinch-manager-mlb-suspension-ends",
+                  "snippet": "The Tigers&#39; new manager is AJ Hinch, whose yearlong suspension for his role in the Astros&#39; sign-stealing scandal ended Tuesday night."
+                },
+                {
+                  "title": "AJ Hinch Is Not Off the Hook Just Yet",
+                  "timeAgo": "12h ago",
+                  "source": "Sports Illustrated",
+                  "url": "https://www.si.com/mlb/2020/10/30/aj-hinch-tigers-hiring-punishment",
+                  "snippet": "After serving his one-year suspension, AJ Hinch was named Tigers manager on Friday. But make no mistake, his punishment isn&#39;t over yet."
+                },
+                {
+                  "title": "These Tigers aren&#39;t like the Astros AJ Hinch inherited, but they&#39;re close",
+                  "timeAgo": "7h ago",
+                  "source": "The Detroit News",
+                  "image": {
+                    "newsUrl": "https://www.detroitnews.com/story/sports/mlb/tigers/2020/10/31/these-tigers-arent-like-astros-a-j-hinch-inherited-but-theyre-close/6088162002/",
+                    "source": "The Detroit News",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQJ_PL0R5F38XSd_7iCEABkxp6xZZEzyk3x1Uvh-FPNuSV_yqc3Q_PleX0PX5ediBUGXtttr0yK"
+                  },
+                  "url": "https://www.detroitnews.com/story/sports/mlb/tigers/2020/10/31/these-tigers-arent-like-astros-a-j-hinch-inherited-but-theyre-close/6088162002/",
+                  "snippet": "AJ Hinch has no delusions about the Tigers&#39; readiness to contend in 2021. But he can see that a strong infrastructure has been built."
+                },
+                {
+                  "title": "A.J. Hinch Hired by Tigers After Suspension for Astros Cheating",
+                  "timeAgo": "11h ago",
+                  "source": "The New York Times",
+                  "image": {
+                    "newsUrl": "https://www.nytimes.com/2020/10/30/sports/baseball/aj-hinch-detroit-tigers.html",
+                    "source": "The New York Times",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSuWq19y3QAmx7ael3HnBbIIkajzaPKRqHZxh--7GCRRJRbQsvK84SV3i-VqA5zg8h919QDjCGW"
+                  },
+                  "url": "https://www.nytimes.com/2020/10/30/sports/baseball/aj-hinch-detroit-tigers.html",
+                  "snippet": "Thirty minutes after Hinch&#39;s season-long punishment officially ended on Tuesday, Detroit contacted him. Three days later, he was officially introduced as&nbsp;..."
+                },
+                {
+                  "title": "Fresh off suspension, AJ Hinch takes over as Tigers manager",
+                  "timeAgo": "12h ago",
+                  "source": "The Denver Post",
+                  "image": {
+                    "newsUrl": "https://www.denverpost.com/2020/10/30/aj-hinch-detroit-tigers-new-manager/",
+                    "source": "The Denver Post",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRkKTIX2--MNHTjEY4Bk95nmo_b2U7VvfsiWvQna9Lyt79UqJChO1ja3x8yyPC3202UyxUSdDAY"
+                  },
+                  "url": "https://www.denverpost.com/2020/10/30/aj-hinch-detroit-tigers-new-manager/",
+                  "snippet": "As he waited out his suspension this year, AJ Hinch knew he wanted to return to baseball. The question was whether anyone in the sport would be ready to&nbsp;..."
+                },
+                {
+                  "title": "Four things Detroit Tigers&#39; A.J. Hinch must do now that he&#39;s manager",
+                  "timeAgo": "11h ago",
+                  "source": "Detroit Free Press",
+                  "image": {
+                    "newsUrl": "https://www.freep.com/story/sports/mlb/tigers/2020/10/30/detroit-tigers-aj-hinch-to-do-list/6082179002/",
+                    "source": "Detroit Free Press",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQYVOz2RQbkzgBhU91M5k5tfMg8nKG0i_FB5uLS5KrpDM7x5TnY25pMclV307-NWKYXWwuniIGN"
+                  },
+                  "url": "https://www.freep.com/story/sports/mlb/tigers/2020/10/30/detroit-tigers-aj-hinch-to-do-list/6082179002/",
+                  "snippet": "Here are four things that should be on A.J. Hinch&#39;s immediate to-do list after becoming Detroit Tigers manager."
+                },
+                {
+                  "title": "AJ Hinch firmó contrato multianual para ser mánager de Detroit Tigers",
+                  "timeAgo": "16h ago",
+                  "source": "ESPN Deportes",
+                  "image": {
+                    "newsUrl": "https://espndeportes.espn.com/beisbol/nota/_/id/7668069/aj-hinch-firmo-contrato-multianual-manager-detroit-tigers-temporada-2021",
+                    "source": "ESPN Deportes",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSv4DcJoTqRHIVAL3Ka4URI8RjcFPVs7xasncOUlk43WYrSyjlfqGqw-3WszHhcGoyI3GBEZyDm"
+                  },
+                  "url": "https://espndeportes.espn.com/beisbol/nota/_/id/7668069/aj-hinch-firmo-contrato-multianual-manager-detroit-tigers-temporada-2021",
+                  "snippet": "El nuevo entrenador de los Tigers es A.J. Hinch, cuya suspensión de un año por su papel en el escándalo del robo de señas de los Aatros terminó el martes por&nbsp;..."
+                },
+                {
+                  "title": "Los Tigers de Detroit oficializan la contratación de A.J. Hinch como ...",
+                  "timeAgo": "12h ago",
+                  "source": "El Nuevo Dia.com",
+                  "image": {
+                    "newsUrl": "https://www.elnuevodia.com/deportes/beisbol/notas/los-tigers-de-detroit-oficializan-la-contratacion-de-aj-hinch-como-dirigente/",
+                    "source": "El Nuevo Dia.com",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcT1oHxx5s26MDAWK-vN947DpgXq7ccgcNAswRq7eeKuzh8pWDMbQdhoO1DfDDgcpCSf-LYisIIR"
+                  },
+                  "url": "https://www.elnuevodia.com/deportes/beisbol/notas/los-tigers-de-detroit-oficializan-la-contratacion-de-aj-hinch-como-dirigente/",
+                  "snippet": "El piloto acaba de cumplir una suspensión de una temporada junto a boricua Alex Cora por el escándalo de robo de señales con los Astros en 2017."
+                },
+                {
+                  "title": "MLB: Los Detroit Tigers apostaron por A.J. Hinch como su nuevo ...",
+                  "timeAgo": "3h ago",
+                  "source": "Fox Deportes",
+                  "image": {
+                    "newsUrl": "https://www.foxdeportes.com/mlb/story/mlb-los-detroit-tigers-apostaron-por-aj-hinch-como-su-nuevo-manager/",
+                    "source": "Fox Deportes",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ4HPa5C9X9OzNjMpaxTWA0h5pTCcLut_lqvRbYDQcgNLnwAiaUgT8DuBc5uCCpazv3wbJMyuem"
+                  },
+                  "url": "https://www.foxdeportes.com/mlb/story/mlb-los-detroit-tigers-apostaron-por-aj-hinch-como-su-nuevo-manager/",
+                  "snippet": "Diecisiete años después de que AJ Hinch fue un catcher sustituto con los Tigers del 2003, el ex manager de los Diamondbacks y Astros vuelve a Detroit como&nbsp;..."
+                },
+                {
+                  "title": "AJ Hinch vuelve a lo grande como nuevo manejador de los Tigres",
+                  "timeAgo": "15h ago",
+                  "source": "Yahoo Deportes",
+                  "image": {
+                    "newsUrl": "https://es-us.deportes.yahoo.com/noticias/aj-hinch-vuelve-grande-manejador-191429864.html",
+                    "source": "Yahoo Deportes",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRVeCODJTl7NnKRchgxVP97BPKl6b5iiihCVXIcr6slG1xJNSMCoDAkboIhMVWiFDNRmqQeSkkk"
+                  },
+                  "url": "https://es-us.deportes.yahoo.com/noticias/aj-hinch-vuelve-grande-manejador-191429864.html",
+                  "snippet": "Detroit (EE.UU.), 30 oct (EFE).- AJ Hinch, que el pasado martes al concluir la Serie Mundial completó su castigo de una temporada sin poder dirigir en las&nbsp;..."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=AJ+Hinch#AJ%20Hinch"
+            },
+            {
+              "title": {
+                "query": "Samhain",
+                "exploreLink": "/trends/explore?q=Samhain&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "50K+",
+              "relatedQueries": [],
+              "image": {
+                "newsUrl": "https://www.salemnews.com/news/local_news/once-in-a-blue-moon-virtual-spells-highlight-samhain-2020-amid-covid-19/article_5aa929d5-c5d7-5482-9084-7f8bd9973388.html",
+                "source": "The Salem News",
+                "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTjCSWuvI21bl9MalClPwviFLzN5KXFHdpRhjNxnCAjo7w9I-lYWIHQXz9up7HY1W3sw5gUDTCu"
+              },
+              "articles": [
+                {
+                  "title": "Once in a blue moon: Virtual spells highlight Samhain 2020 amid ...",
+                  "timeAgo": "1d ago",
+                  "source": "The Salem News",
+                  "image": {
+                    "newsUrl": "https://www.salemnews.com/news/local_news/once-in-a-blue-moon-virtual-spells-highlight-samhain-2020-amid-covid-19/article_5aa929d5-c5d7-5482-9084-7f8bd9973388.html",
+                    "source": "The Salem News",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTjCSWuvI21bl9MalClPwviFLzN5KXFHdpRhjNxnCAjo7w9I-lYWIHQXz9up7HY1W3sw5gUDTCu"
+                  },
+                  "url": "https://www.salemnews.com/news/local_news/once-in-a-blue-moon-virtual-spells-highlight-samhain-2020-amid-covid-19/article_5aa929d5-c5d7-5482-9084-7f8bd9973388.html",
+                  "snippet": "SALEM — Saturday night will be a magical one for the witch community, even if it&#39;s going to play out from a distance."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Samhain#Samhain"
+            },
+            {
+              "title": {
+                "query": "Tiger King",
+                "exploreLink": "/trends/explore?q=Tiger+King&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "50K+",
+              "relatedQueries": [],
+              "image": {
+                "newsUrl": "https://www.vulture.com/2020/10/kim-kardashian-carole-baskin-tiger-king-halloween-costume.html",
+                "source": "Vulture",
+                "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSD5G55RLPEcpCyIiAacVrhvT6wHPChrwE3aHuiSSLjUoJL6ExgktML2jawoAG12RjVu5m44RT5"
+              },
+              "articles": [
+                {
+                  "title": "Kim Kardashian Channels Her Inner Tiger Queen for Halloween",
+                  "timeAgo": "15h ago",
+                  "source": "Vulture",
+                  "image": {
+                    "newsUrl": "https://www.vulture.com/2020/10/kim-kardashian-carole-baskin-tiger-king-halloween-costume.html",
+                    "source": "Vulture",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSD5G55RLPEcpCyIiAacVrhvT6wHPChrwE3aHuiSSLjUoJL6ExgktML2jawoAG12RjVu5m44RT5"
+                  },
+                  "url": "https://www.vulture.com/2020/10/kim-kardashian-carole-baskin-tiger-king-halloween-costume.html",
+                  "snippet": "Kim Kardashian dressed up as Carole Baskin for Halloween, along with her children as the tigers and Jonathan Cheban as Joe Exotic."
+                },
+                {
+                  "title": "Ghost hunters reportedly find spirit of &#39;Tiger King&#39; star&#39;s late husband",
+                  "timeAgo": "16h ago",
+                  "source": "New York Post",
+                  "image": {
+                    "newsUrl": "https://nypost.com/2020/10/30/ghost-hunters-find-spirit-of-tiger-king-stars-late-husband/",
+                    "source": "New York Post",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRLbrxebn2BI_HljTSv5Ia0cz_0_HM8ZXiF7DTRBuKLTr-dG1ASHk59T3hnGP6J_NZVqQEMu-cS"
+                  },
+                  "url": "https://nypost.com/2020/10/30/ghost-hunters-find-spirit-of-tiger-king-stars-late-husband/",
+                  "snippet": "The star of the TV show “Ghost Adventures” says he investigated Joe Exotic&#39;s former zoo — and found the restless ghost of his tragic late husband, according to&nbsp;..."
+                },
+                {
+                  "title": "Inside the Making of Kim Kardashian&#39;s $6400 Group &#39;Tiger King ...",
+                  "timeAgo": "13h ago",
+                  "source": "ELLE.com",
+                  "image": {
+                    "newsUrl": "https://www.elle.com/culture/celebrities/a34536201/kim-kardashian-tiger-king-costumes-alejandro-collection-interview/",
+                    "source": "ELLE.com",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRZEvkIj1o1zaoWOTPaVOrcsvFXcgBeETECHWwxZELGRrgQxrmoBjzpsFnbTG--gnfelwl_I6Xf"
+                  },
+                  "url": "https://www.elle.com/culture/celebrities/a34536201/kim-kardashian-tiger-king-costumes-alejandro-collection-interview/",
+                  "snippet": "Kim Kardashian debuted her family&#39;s first Halloween costume , and it was ﻿Tiger King-﻿themed. Kardashian tapped ﻿Alejandro Collection to create the outfits."
+                },
+                {
+                  "title": "Kim Kardashian dresses as &#39;Tiger King&#39; star Carole Baskin for ...",
+                  "timeAgo": "18h ago",
+                  "source": "Page Six",
+                  "image": {
+                    "newsUrl": "https://pagesix.com/2020/10/30/kim-kardashian-dresses-as-tiger-king-star-carole-baskin-for-halloween/",
+                    "source": "Page Six",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcT2rKCXeiPr4oV2lNMhqgrfPfM_KGGZDhUP1ZrXAl9RngBj8BIVR_hyA30S1hafRdKwbywdD2Fm"
+                  },
+                  "url": "https://pagesix.com/2020/10/30/kim-kardashian-dresses-as-tiger-king-star-carole-baskin-for-halloween/",
+                  "snippet": "Kim Kardashian and Jonathan Cheban nailed their Halloween costumes as &quot;Tiger King&quot; stars Carole Baskin and Joe Exotic, with help from North, Chicago,&nbsp;..."
+                },
+                {
+                  "title": "Kim Kardashian&#39;s Halloween costume is a homage to &#39;Tiger King&#39;",
+                  "timeAgo": "16h ago",
+                  "source": "Today.com",
+                  "image": {
+                    "newsUrl": "https://www.today.com/popculture/kim-kardashian-s-halloween-costume-homage-tiger-king-t196704",
+                    "source": "Today.com",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQCJxY0evXdm9R8srhUCdGOBvpRQMs5zK52btcEOrCTSU6gtdno-jZ2QyeV0uRe8-QUNCc9EYyG"
+                  },
+                  "url": "https://www.today.com/popculture/kim-kardashian-s-halloween-costume-homage-tiger-king-t196704",
+                  "snippet": "Kim Kardashian West dressed up as Carole Baskin, paying homage to the Netflix-hit &quot;Tiger King.&quot; The 2020 Kim Kardashian Halloween costume was a hit!"
+                },
+                {
+                  "title": "Kim Kardashian &amp; Jonathan Cheban&#39;s &#39;Tiger King&#39; Halloween ...",
+                  "timeAgo": "19h ago",
+                  "source": "Bustle",
+                  "image": {
+                    "newsUrl": "https://www.bustle.com/entertainment/kim-kardashians-tiger-king-halloween-costume-looks-just-like-carole-baskin",
+                    "source": "Bustle",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcT8WRu2D15IE-00HZTvd8ft9PTNIswMV3WBJkq0cqm6M5xRJti-CaXn4CN2-OVuavpfqTKi8tKG"
+                  },
+                  "url": "https://www.bustle.com/entertainment/kim-kardashians-tiger-king-halloween-costume-looks-just-like-carole-baskin",
+                  "snippet": "Kim Kardashian and best friend Jonathan Cheban dressed up as &#39;Tiger King&#39; stars Carole Baskin and Joe Exotic for Halloween."
+                },
+                {
+                  "title": "Carole Baskin! Joe Exotic! Kim Kardashian&#39;s &#39;Tiger King&#39; Family ...",
+                  "timeAgo": "16h ago",
+                  "source": "Us Weekly",
+                  "image": {
+                    "newsUrl": "https://www.usmagazine.com/celebrity-moms/pictures/kim-kardashian-rocks-tiger-king-halloween-looks-with-4-kids-pics/",
+                    "source": "Us Weekly",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ-pFxgnC_wDZvRUvc3pki2b0fWkwNHUnwj7gN66aMmxeOePNl7J8OLiSUsjDUCsDLTiHuxlg8L"
+                  },
+                  "url": "https://www.usmagazine.com/celebrity-moms/pictures/kim-kardashian-rocks-tiger-king-halloween-looks-with-4-kids-pics/",
+                  "snippet": "Kim Kardashian rocked a Carole Baskin costume while her four kids dressed up as tigers — see their fun Halloween looks."
+                },
+                {
+                  "title": "Joe Exotic Approves Of Kim Kardashian&#39;s &#39;Tiger King&#39; Halloween ...",
+                  "timeAgo": "14h ago",
+                  "source": "The Blast",
+                  "image": {
+                    "newsUrl": "https://theblast.com/146605/joe-exotic-approves-of-kim-kardashians-tiger-king-halloween-cost",
+                    "source": "The Blast",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSIGX2fMu76rIV4akLklewDGx19-kDe1ONDmdDVfuAsUN-ZwO5_L3bgob5gJGhQXLUlYggtgT3I"
+                  },
+                  "url": "https://theblast.com/146605/joe-exotic-approves-of-kim-kardashians-tiger-king-halloween-cost",
+                  "snippet": "See The Photos!"
+                },
+                {
+                  "title": "Joe Exotic Rips &#39;Ghost Adventures&#39; Zak Bagans Over &#39;Tiger King ...",
+                  "timeAgo": "18h ago",
+                  "source": "The Blast",
+                  "image": {
+                    "newsUrl": "https://theblast.com/146558/joe-exotic-rips-ghost-adventures-zak-bagans-over-tiger-king-hall",
+                    "source": "The Blast",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQG6w0G6N6P82x9ohszIkmiCasfgbKthSOdp7m1kH1f-Q1lZ7pClo1Ke4e6XoEbe3cw_AFZrY4X"
+                  },
+                  "url": "https://theblast.com/146558/joe-exotic-rips-ghost-adventures-zak-bagans-over-tiger-king-hall",
+                  "snippet": "&quot;Tiger King&quot; star Joe Exotic is once again publicly taking aim at someone over his beloved former zoo, but this time the focus isn&#39;t on Carole Baskin or Jeff Lowe&nbsp;..."
+                },
+                {
+                  "title": "Tiger King villain Jeff claims two trespassers murdered at roadside zoo",
+                  "timeAgo": "16h ago",
+                  "source": "Toronto Sun",
+                  "image": {
+                    "newsUrl": "https://torontosun.com/news/world/tiger-king-villain-jeff-claims-two-trespassers-murdered-at-roadside-zoo",
+                    "source": "Toronto Sun",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ254xyf6XnFZAew-BBsx37xobVtH-pViV_tUL9eFUBb4KtggPD8mCdlHXUt5aAnTd5jTA_qyTx"
+                  },
+                  "url": "https://torontosun.com/news/world/tiger-king-villain-jeff-claims-two-trespassers-murdered-at-roadside-zoo",
+                  "snippet": "The other villain in the Netflix smashTiger King is claiming two workers at the Joe Exotic&#39;s roadside zoo murdered two trespassers then burned and buried them."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Tiger+King#Tiger%20King"
+            },
+            {
+              "title": {
+                "query": "Halloween Kills",
+                "exploreLink": "/trends/explore?q=Halloween+Kills&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "50K+",
+              "relatedQueries": [],
+              "image": {
+                "newsUrl": "https://www.usatoday.com/story/entertainment/movies/2020/10/30/halloween-kills-trailer-drops-jamie-lee-curtis-says-film-speaks-blm/6093978002/",
+                "source": "USA TODAY",
+                "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTAjN4YJ1UnO5Te9DxX6gXfonHqDAlyM9YTVt3kAvNZZdw8Z2FWUpJ7esnUEerk0J_vTKfvpmkJ"
+              },
+              "articles": [
+                {
+                  "title": "&#39;Halloween Kills&#39; drops another teaser trailer, Jamie Lee Curtis says ...",
+                  "timeAgo": "7h ago",
+                  "source": "USA TODAY",
+                  "image": {
+                    "newsUrl": "https://www.usatoday.com/story/entertainment/movies/2020/10/30/halloween-kills-trailer-drops-jamie-lee-curtis-says-film-speaks-blm/6093978002/",
+                    "source": "USA TODAY",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTAjN4YJ1UnO5Te9DxX6gXfonHqDAlyM9YTVt3kAvNZZdw8Z2FWUpJ7esnUEerk0J_vTKfvpmkJ"
+                  },
+                  "url": "https://www.usatoday.com/story/entertainment/movies/2020/10/30/halloween-kills-trailer-drops-jamie-lee-curtis-says-film-speaks-blm/6093978002/",
+                  "snippet": "Another teaser trailer for &quot;Halloween Kills&quot; has arrived, and star Jamie Lee Curtis is talking about the film&#39;s reckoning with shared trauma."
+                },
+                {
+                  "title": "Wilmington-shot &#39;Halloween Kills&#39; scares up first trailer - WWAY TV",
+                  "timeAgo": "19h ago",
+                  "source": "WWAY NewsChannel 3",
+                  "image": {
+                    "newsUrl": "https://www.wwaytv3.com/2020/10/30/october-surprise-wilmington-shot-halloween-kills-scares-up-first-trailer/",
+                    "source": "WWAY NewsChannel 3",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSR7nPI_viShzeTt50YbAljKGXey8h8Vb7xOBOk6AHEU1gDtn3nw9mD4XAuATzWQHahuQY4PnLO"
+                  },
+                  "url": "https://www.wwaytv3.com/2020/10/30/october-surprise-wilmington-shot-halloween-kills-scares-up-first-trailer/",
+                  "snippet": "WILMINGTON, NC (StarNews) — “Next Halloween, when the sun sets and someone is alone, he kills.” Michael Myers sharpening up for his next rampage in the&nbsp;..."
+                },
+                {
+                  "title": "Halloween Kills Gets New Trailer At BlumFest",
+                  "timeAgo": "12h ago",
+                  "source": "GameSpot",
+                  "image": {
+                    "newsUrl": "https://www.gamespot.com/articles/halloween-kills-gets-new-trailer-at-blumfest/1100-6483932/",
+                    "source": "GameSpot",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcR7gDPoCqJbRKjHvPnFSD6RQwAcl1Gvm1Q6MkW85qo_QVXjRxWyGxmQcsDUBDluKZP5XmbOZsR9"
+                  },
+                  "url": "https://www.gamespot.com/articles/halloween-kills-gets-new-trailer-at-blumfest/1100-6483932/",
+                  "snippet": "Finally, we have seen some footage from the next Halloween movie. Laurie Strode is back and she wants to kill Michael Myers."
+                },
+                {
+                  "title": "New &#39;Halloween Kills&#39; trailer teases the return of Michael Myers",
+                  "timeAgo": "19h ago",
+                  "source": "NME.com",
+                  "image": {
+                    "newsUrl": "https://www.nme.com/news/film/new-halloween-kills-trailer-teases-the-return-of-michael-myers-2805347",
+                    "source": "NME.com",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcR_nMw8ZOYM3apC3g_ftidycLYhGnNjmTkhOotCbvhvhdMjIkyEK9j9E673Jx8W8RUrRASFQ3U9"
+                  },
+                  "url": "https://www.nme.com/news/film/new-halloween-kills-trailer-teases-the-return-of-michael-myers-2805347",
+                  "snippet": "A teaser trailer for the upcoming new &#39;Halloween&#39; film, &#39;Halloween Kills&#39;, has arrived - you can see the return of Michael Myers here."
+                },
+                {
+                  "title": "Halloween Kills&#39; Director Made John Carpenter&#39;s Original Movie Into ...",
+                  "timeAgo": "16h ago",
+                  "source": "Cinema Blend",
+                  "image": {
+                    "newsUrl": "https://www.cinemablend.com/news/2558046/halloween-kills-director-made-john-carpenters-original-movie-into-a-childrens-book-and-i-need-a-copy",
+                    "source": "Cinema Blend",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQPYJdkELkGfSndPlm8i7TdujptYvWJRsptXC48KMlNudvRy5wgLLYs0Sd5KbVpbEP85-W6o6tY"
+                  },
+                  "url": "https://www.cinemablend.com/news/2558046/halloween-kills-director-made-john-carpenters-original-movie-into-a-childrens-book-and-i-need-a-copy",
+                  "snippet": "Every October a slew of horror movies are released, dating all the way back to John Carpenter&#39;s 1978 classic Halloween. Michael Myers was set to return to&nbsp;..."
+                },
+                {
+                  "title": "Halloween Kills star Jamie Lee Curtis teases how sequel reflects ...",
+                  "timeAgo": "11h ago",
+                  "source": "digitalspy.com",
+                  "image": {
+                    "newsUrl": "https://www.digitalspy.com/movies/a34536376/halloween-kills-jamie-lee-curtis-real-life/",
+                    "source": "digitalspy.com",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ4SjRa3DbpsQBImjQTrB9CtNn0rClk70GWnKcs99bBgro7AHZnk4Tebj9Qrn6YGtCahEHIBzGV"
+                  },
+                  "url": "https://www.digitalspy.com/movies/a34536376/halloween-kills-jamie-lee-curtis-real-life/",
+                  "snippet": "Halloween Kills﻿ star Jamie Lee Curtis has teased how the sequel will reflect real life.﻿"
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Halloween+Kills#Halloween%20Kills"
+            },
+            {
+              "title": {
+                "query": "Tua Tagovailoa",
+                "exploreLink": "/trends/explore?q=Tua+Tagovailoa&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "50K+",
+              "relatedQueries": [],
+              "image": {
+                "newsUrl": "https://www.palmbeachpost.com/story/sports/nfl/2020/10/30/tua-tagovailoa-makes-dolphins-start-hes-prepared-moment/6083221002/",
+                "source": "Palm Beach Post",
+                "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcS9UAc9GXes-PeldYp6GGXn0WgKzUmWEbTHw4XI8OkJ8lrMkhhgaTiJAGbAVTlLY40qZimpNnLT"
+              },
+              "articles": [
+                {
+                  "title": "Tua Tagovailoa&#39;s Miami Dolphins start: He&#39;s prepared his entire life ...",
+                  "timeAgo": "14h ago",
+                  "source": "Palm Beach Post",
+                  "image": {
+                    "newsUrl": "https://www.palmbeachpost.com/story/sports/nfl/2020/10/30/tua-tagovailoa-makes-dolphins-start-hes-prepared-moment/6083221002/",
+                    "source": "Palm Beach Post",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcS9UAc9GXes-PeldYp6GGXn0WgKzUmWEbTHw4XI8OkJ8lrMkhhgaTiJAGbAVTlLY40qZimpNnLT"
+                  },
+                  "url": "https://www.palmbeachpost.com/story/sports/nfl/2020/10/30/tua-tagovailoa-makes-dolphins-start-hes-prepared-moment/6083221002/",
+                  "snippet": "Tua Tagovailoa has prepared his entire life for this moment. His first Miami Dolphins start comes, finally, on Sunday."
+                },
+                {
+                  "title": "Why It&#39;s Tua Time for the Miami Dolphins",
+                  "timeAgo": "21h ago",
+                  "source": "Wall Street Journal",
+                  "image": {
+                    "newsUrl": "https://www.wsj.com/articles/why-its-tua-time-for-the-miami-dolphins-11604062800",
+                    "source": "Wall Street Journal",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSWY7JKrhNPpr44M1AlDsOAHhkZvscf-3r5pU0x7sNSvAbd8GZbYPQAqk96CA9FtRSbAu8W6ccb"
+                  },
+                  "url": "https://www.wsj.com/articles/why-its-tua-time-for-the-miami-dolphins-11604062800",
+                  "snippet": "The Dolphins have emerged as surprise playoff contenders but have opted to bench veteran Ryan Fitzpatrick to clear the way for Tua Tagovailoa."
+                },
+                {
+                  "title": "One game does not make a career even for Tua Tagovailoa",
+                  "timeAgo": "17h ago",
+                  "source": "The Phinsider",
+                  "image": {
+                    "newsUrl": "https://www.thephinsider.com/2020/10/30/21540503/miami-dolphins-tua-tagovailoa-first-start-los-angeles-rams",
+                    "source": "The Phinsider",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQBFfUCXyHo5X4EOHnsE1aK8N6UuFSPbFaKWj9NnVHyTq_etSR_QITTRmBdnMOyQkD6RgBjA4-P"
+                  },
+                  "url": "https://www.thephinsider.com/2020/10/30/21540503/miami-dolphins-tua-tagovailoa-first-start-los-angeles-rams",
+                  "snippet": "The Miami Dolphins will open the Tua Tagovailoa era this weekend when the rookie takes his first snap as the team&#39;s starting quarterback. Tagovailoa, selected&nbsp;..."
+                },
+                {
+                  "title": "Watch: Another Tagovailoa puts on stunning show at quarterback",
+                  "timeAgo": "6h ago",
+                  "source": "Touchdown Wire",
+                  "image": {
+                    "newsUrl": "https://touchdownwire.usatoday.com/2020/10/30/taulia-tagovailoa-maryland-terps-tua-tagovailoa-miami-dolphins/",
+                    "source": "Touchdown Wire",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRYHApoE-4T2h3D5B8QWorpwabDO_9F5G196yPdTRMwRTM4oS5Qi2jMYuzBWZMMMVABuA4ZVrju"
+                  },
+                  "url": "https://touchdownwire.usatoday.com/2020/10/30/taulia-tagovailoa-maryland-terps-tua-tagovailoa-miami-dolphins/",
+                  "snippet": "Tua Tagovailoa&#39;s little brother, Taulia, put on quite a show as Maryland stunned Minnesota."
+                },
+                {
+                  "title": "There&#39;s a bobblehead of Tua Tagovailoa riding a dolphin to mark his ...",
+                  "timeAgo": "18h ago",
+                  "source": "Miami Herald",
+                  "image": {
+                    "newsUrl": "https://www.miamiherald.com/sports/article246832338.html",
+                    "source": "Miami Herald",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ0gMQsn1NzeyjKXDpSrCrpKopUYXTMYH4-0ymKS4EO6QdGy5hVfWVNtZBzr6qP27a8_-3DMBZH"
+                  },
+                  "url": "https://www.miamiherald.com/sports/article246832338.html",
+                  "snippet": "Miami Dolphins quarterback Tua Tagovailoa reaches out to defensive back Bobby McCain for advice to help him understand defensive backs in the NFL,&nbsp;..."
+                },
+                {
+                  "title": "LOOK: Tua Tagovailoa bobblehead released ahead of first start",
+                  "timeAgo": "20h ago",
+                  "source": "247Sports",
+                  "image": {
+                    "newsUrl": "https://247sports.com/Article/Tua-Tagovailoa-Miami-Dolphins-bobblehead-released-ahead-of-first-start-Alabama-Crimson-Tide--153862319/",
+                    "source": "247Sports",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRhlhIuNeGTkGv9tL8FlkayUSk72G07NdLZdp4NgK04fumIkrlFwC1BNs8VSed5jlznITDw7xjJ"
+                  },
+                  "url": "https://247sports.com/Article/Tua-Tagovailoa-Miami-Dolphins-bobblehead-released-ahead-of-first-start-Alabama-Crimson-Tide--153862319/",
+                  "snippet": "Things are on the upswing for Miami Dolphins rookie quarterback Tua Tagovailoa. Not only was Tagovailoa recently named Miami&#39;s starting quarterback, but a&nbsp;..."
+                },
+                {
+                  "title": "Former Alabama quarterback Tua Tagovailoa gets his own ...",
+                  "timeAgo": "14h ago",
+                  "source": "Alabama NewsCenter",
+                  "image": {
+                    "newsUrl": "https://alabamanewscenter.com/2020/10/30/former-alabama-quarterback-tua-tagovailoa-gets-his-own-bobblehead/",
+                    "source": "Alabama NewsCenter",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcT7--fwnSI2YFPBPi70ZbhCa_VF0nm39f4zDCzPHI0RqMlrFybfZfZXo46_W_EK8_3tewo6E2o2"
+                  },
+                  "url": "https://alabamanewscenter.com/2020/10/30/former-alabama-quarterback-tua-tagovailoa-gets-his-own-bobblehead/",
+                  "snippet": "It&#39;s a big weekend for former Alabama Crimson Tide quarterback Tua Tagovailoa. Not only is he set to start his first NFL game with the Miami Dolphins, but the&nbsp;..."
+                },
+                {
+                  "title": "Tua Tagovailoa&#39;s First Start For Miami Will Test His Hip",
+                  "timeAgo": "20h ago",
+                  "source": "CBS Miami",
+                  "image": {
+                    "newsUrl": "https://miami.cbslocal.com/2020/10/30/tuas-tagovailoa-start-miami-test-hip/",
+                    "source": "CBS Miami",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSPZToKsXBF4W7ju1NdKHa5H8raPgZ0Gzhj80uH7nXORICzakBEdVGBkhB6_pe-3ZsZXIW5g7Y2"
+                  },
+                  "url": "https://miami.cbslocal.com/2020/10/30/tuas-tagovailoa-start-miami-test-hip/",
+                  "snippet": "MIAMI (CBSMiami/AP) — When Miami Dolphins&#39; Tua Tagovailoa takes to the field on Sunday as the team&#39;s starting quarterback he knows a hit is coming his&nbsp;..."
+                },
+                {
+                  "title": "How soon should we start to make conclusions about Tua? What ...",
+                  "timeAgo": "13h ago",
+                  "source": "Miami Herald",
+                  "image": {
+                    "newsUrl": "https://www.miamiherald.com/sports/spt-columns-blogs/barry-jackson/article246681387.html",
+                    "source": "Miami Herald",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ-BVoQPfBfOL8MMCbL7VBYyPYKJK3uaRXBarCfr3JO1Zt74tn6d_evgm2JH29jtaUWEEZDkte0"
+                  },
+                  "url": "https://www.miamiherald.com/sports/spt-columns-blogs/barry-jackson/article246681387.html",
+                  "snippet": "As Miami Dolphins rookie Tua Tagovailoa prepares for his first start, a look at how some of the most productive NFL quarterbacks have fared early."
+                },
+                {
+                  "title": "Tua Tagovailoa fantasy football start/sit advice: What to do with the ...",
+                  "timeAgo": "17h ago",
+                  "source": "DraftKings Nation",
+                  "image": {
+                    "newsUrl": "https://dknation.draftkings.com/2020/10/30/21538665/tua-tagovailoa-start-sit-advice-ryan-fitzpatrick-benched-fantasy-football-week-8-dolphins-vs-rams",
+                    "source": "DraftKings Nation",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQSSich3rMzRwKSb5uM757554vBpQ2y753WqcVNk3TggeWFcg3e-fZCOFD_kCCRu6yoS_fmubCN"
+                  },
+                  "url": "https://dknation.draftkings.com/2020/10/30/21538665/tua-tagovailoa-start-sit-advice-ryan-fitzpatrick-benched-fantasy-football-week-8-dolphins-vs-rams",
+                  "snippet": "We go over Tua Tagovailoa&#39;s fantasy football outlook in his first career start ahead of the Dolphins Week 8 matchup against the Rams."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Tua+Tagovailoa#Tua%20Tagovailoa"
+            },
+            {
+              "title": {
+                "query": "Laura Ingraham",
+                "exploreLink": "/trends/explore?q=Laura+Ingraham&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "50K+",
+              "relatedQueries": [],
+              "image": {
+                "newsUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/30/trump-fox-news-laura-ingraham-politically-correct-wearing-mask/6094042002/",
+                "source": "USA TODAY",
+                "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQwM1vKxhbVMgDPuunHZtQIZ29XgzyGmhvmLAUb-Jia1ApCT1YDDuYzqQSslWtOJlYUqBo9tWcF"
+              },
+              "articles": [
+                {
+                  "title": "&#39;Politically correct&#39;: Trump pokes Fox News Host Laura Ingraham for ...",
+                  "timeAgo": "8h ago",
+                  "source": "USA TODAY",
+                  "image": {
+                    "newsUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/30/trump-fox-news-laura-ingraham-politically-correct-wearing-mask/6094042002/",
+                    "source": "USA TODAY",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQwM1vKxhbVMgDPuunHZtQIZ29XgzyGmhvmLAUb-Jia1ApCT1YDDuYzqQSslWtOJlYUqBo9tWcF"
+                  },
+                  "url": "https://www.usatoday.com/story/news/politics/elections/2020/10/30/trump-fox-news-laura-ingraham-politically-correct-wearing-mask/6094042002/",
+                  "snippet": "The Center for Disease Control and top health officials advise wearing face masks to prevent the spread of COVID-19."
+                },
+                {
+                  "title": "Trump, in Michigan, calls Laura Ingraham &#39;politically correct&#39; for ...",
+                  "timeAgo": "11h ago",
+                  "source": "The New York Times",
+                  "image": {
+                    "newsUrl": "https://www.nytimes.com/2020/10/30/us/elections/trump-in-michigan-calls-laura-ingraham-politically-correct-for-wearing-a-mask.html",
+                    "source": "The New York Times",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRhzFjuBc2nX9LVxkSUElqXXrWRZKG0Yup3G6xupWQKJ6sSpmlXskdh6wg5M_otYzdJ3ctJMBlh"
+                  },
+                  "url": "https://www.nytimes.com/2020/10/30/us/elections/trump-in-michigan-calls-laura-ingraham-politically-correct-for-wearing-a-mask.html",
+                  "snippet": "President Trump accused doctors of trying to profit from coronavirus deaths and mocked the Fox News host Laura Ingraham for wearing a mask as she attended&nbsp;..."
+                },
+                {
+                  "title": "Trump teases Laura Ingraham for wearing a mask at his rally | TheHill",
+                  "timeAgo": "16h ago",
+                  "source": "The Hill",
+                  "image": {
+                    "newsUrl": "https://thehill.com/homenews/administration/523609-trump-teases-laura-ingraham-for-wearing-a-mask-at-his-rally",
+                    "source": "The Hill",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTzxz-aoNb_a9vpyXPhUTStiUboluPdYIGr-10rfARt5vK-IZZpxxXTm5PxSzcWNyWWFaAEE0rj"
+                  },
+                  "url": "https://thehill.com/homenews/administration/523609-trump-teases-laura-ingraham-for-wearing-a-mask-at-his-rally",
+                  "snippet": "President Trump on Friday teased Fox News host Laura Ingraham for wearing a mask at his Michigan campaign rally, chiding her for being &quot;politically correct.&quot;"
+                },
+                {
+                  "title": "Trump mocks Fox News host Laura Ingraham for wearing mask to ...",
+                  "timeAgo": "14h ago",
+                  "source": "Business Insider",
+                  "image": {
+                    "newsUrl": "https://www.businessinsider.com/trump-mocks-fox-news-host-laura-ingraham-face-mask-rally-2020-10",
+                    "source": "Business Insider",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcR0xvfWZhp2VMRsMT8YVr_WYQItv7LYhE6dyr1ypqiY0XzlXgAo9Mc6cw3wtw1VM9BF2zwJBeFM"
+                  },
+                  "url": "https://www.businessinsider.com/trump-mocks-fox-news-host-laura-ingraham-face-mask-rally-2020-10",
+                  "snippet": "&quot;I can&#39;t recognize you. Is that a mask? No way. Are you wearing a mask? I&#39;ve never seen her in a mask,&quot; Trump said to Ingraham in Michigan."
+                },
+                {
+                  "title": "Trump Calls Fox News&#39; Laura Ingraham &#39;Politically Correct&#39; for ...",
+                  "timeAgo": "13h ago",
+                  "source": "Daily Beast",
+                  "image": {
+                    "newsUrl": "https://www.thedailybeast.com/trump-calls-fox-news-laura-ingraham-politically-correct-for-wearing-mask-at-his-rally",
+                    "source": "Daily Beast",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcT2dlZ91rgLn8p5UFyX2Y-kx-zX2gY-m7BELmbmNbMFYdnHm7lQ8EvQWDQxf5fG2Ki6Kcjcisyv"
+                  },
+                  "url": "https://www.thedailybeast.com/trump-calls-fox-news-laura-ingraham-politically-correct-for-wearing-mask-at-his-rally",
+                  "snippet": "The president jokingly called out one of his biggest Fox News cheerleaders for wearing a mask at his Michigan rally."
+                },
+                {
+                  "title": "Trump Questions Laura Ingraham for Wearing Mask to His Rally ...",
+                  "timeAgo": "14h ago",
+                  "source": "Newsweek",
+                  "image": {
+                    "newsUrl": "https://www.newsweek.com/trump-questions-laura-ingraham-wearing-mask-his-rally-says-he-doesnt-know-what-happened-fox-1543678",
+                    "source": "Newsweek",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSDXIRMyYy60qwK0E2GB8WnfvOGRhOdA_U8knqSJi_HryBDJZ0zte6PCZlrWDEUCWxp6I_lD2Ur"
+                  },
+                  "url": "https://www.newsweek.com/trump-questions-laura-ingraham-wearing-mask-his-rally-says-he-doesnt-know-what-happened-fox-1543678",
+                  "snippet": "&quot;I&#39;ve never seen her in a mask. Look at you. Wow, she&#39;s being very politically correct,&quot; the president said about the Fox News host."
+                },
+                {
+                  "title": "Trump Mocks &#39;Politically Correct&#39; Laura Ingraham For Wearing Mask ...",
+                  "timeAgo": "11h ago",
+                  "source": "HuffPost",
+                  "url": "https://www.huffpost.com/entry/trump-laura-ingraham-mask-mocking_n_5f9c8775c5b60eefc8529924",
+                  "snippet": "The Fox News host regularly dismisses COVID-19 to her viewers, but it appears she masks up when her own health is at stake. By Mary Papenfuss. 10/30/2020&nbsp;..."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Laura+Ingraham#Laura%20Ingraham"
+            },
+            {
+              "title": {
+                "query": "Wolves vs Crystal Palace",
+                "exploreLink": "/trends/explore?q=Wolves+vs+Crystal+Palace&date=now+7-d&geo=US"
+              },
+              "formattedTraffic": "20K+",
+              "relatedQueries": [],
+              "image": {
+                "newsUrl": "https://www.espn.com/soccer/report?gameId=578594",
+                "source": "ESPN",
+                "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTBiYea3e_DgRNes97IsK3odrbOym6l_iXfSPS0Htg5Z6A-OkQTxMbRxCjz-Y50wAtP3b_qxUBL"
+              },
+              "articles": [
+                {
+                  "title": "Wolverhampton Wanderers vs. Crystal Palace - Football Match ...",
+                  "timeAgo": "11h ago",
+                  "source": "ESPN",
+                  "image": {
+                    "newsUrl": "https://www.espn.com/soccer/report?gameId=578594",
+                    "source": "ESPN",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTBiYea3e_DgRNes97IsK3odrbOym6l_iXfSPS0Htg5Z6A-OkQTxMbRxCjz-Y50wAtP3b_qxUBL"
+                  },
+                  "url": "https://www.espn.com/soccer/report?gameId=578594",
+                  "snippet": "Wolverhampton Wanderers climbed to third in the Premier League after beating Crystal Palace 2-0 on Friday thanks to goals from teenage wingback Rayan&nbsp;..."
+                },
+                {
+                  "title": "Wolverhampton Wolves vs. Crystal Palace FREE LIVE STREAM (10 ...",
+                  "timeAgo": "15h ago",
+                  "source": "nj.com",
+                  "image": {
+                    "newsUrl": "https://www.nj.com/sports/2020/10/wolverhampton-wolves-vs-crystal-palace-free-live-stream-103020-watch-english-premier-league-online-time-tv-channel.html",
+                    "source": "nj.com",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQXMHmjg8gK-NTLPmYGaNtBht99V3iLyeU3ViAuccZMLdU_Muz5qio8GdYU0OcM9lWtFtp2mUNy"
+                  },
+                  "url": "https://www.nj.com/sports/2020/10/wolverhampton-wolves-vs-crystal-palace-free-live-stream-103020-watch-english-premier-league-online-time-tv-channel.html",
+                  "snippet": "Wolverhampton Wolves face Crystal Palace in an English Premier League match at Molineux Stadium in Wolverhampton, England, on Friday, October 30, 2020&nbsp;..."
+                },
+                {
+                  "title": "Premier League Betting Odds, Picks &amp; Predictions: Wolverhampton ...",
+                  "timeAgo": "21h ago",
+                  "source": "The Action Network",
+                  "image": {
+                    "newsUrl": "https://www.actionnetwork.com/soccer/premier-league-odds-picks-predictions-wolverhampton-vs-crystal-palace-friday-october-30",
+                    "source": "The Action Network",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTQL7xqeXkQmJM-LiiIKKMstQEoE8YxehLk0RgnzBSL9htLcLBB_ozpKBtg8S4zhcL4CTeeeNPn"
+                  },
+                  "url": "https://www.actionnetwork.com/soccer/premier-league-odds-picks-predictions-wolverhampton-vs-crystal-palace-friday-october-30",
+                  "snippet": "Jeremy Pond gives his in-depth analysis and shares his top plays for Friday&#39;s Premier League match between Wolverhampton and Crystal Palace."
+                },
+                {
+                  "title": "Wolves vs Crystal Palace Betting Tips: Latest odds, team news ...",
+                  "timeAgo": "1d ago",
+                  "source": "Goal.com",
+                  "image": {
+                    "newsUrl": "https://www.goal.com/en-gb/news/wolves-crystal-palace-betting-tips-latest-odds-team-news-preview-/1t0j0asstw52l1if7gpjx0ebzm",
+                    "source": "Goal.com",
+                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcR2hkVCONKCrx-GaJT6fXRHjMfOuAjpWJQw0c6ptN9Vz1UWHCclbcZYhZCx22YpttAFRwg393mB"
+                  },
+                  "url": "https://www.goal.com/en-gb/news/wolves-crystal-palace-betting-tips-latest-odds-team-news-preview-/1t0j0asstw52l1if7gpjx0ebzm",
+                  "snippet": "Wolves and Crystal Palace are both looking for their fourth Premier League win of the season and Goal offers the latest betting tips from Molineux."
+                },
+                {
+                  "title": "Wolves 2-0 Crystal Palace highlights",
+                  "timeAgo": "1d ago",
+                  "source": "Sky Sports",
+                  "image": {
+                    "newsUrl": "https://www.skysports.com/football/wolves-vs-c-palace/live/428906",
+                    "source": "Sky Sports",
+                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRTQ4fLzlgrnUQ7_0RIoj0xKdGNXtf2XVIZb0ZElQMj0FX4qq27tsB9yE8XwVQ-yqXBFV10-HUj"
+                  },
+                  "url": "https://www.skysports.com/football/wolves-vs-c-palace/live/428906",
+                  "snippet": "Premier League match Wolves vs C Palace 30.10.2020. Preview and stats followed by live commentary, video highlights and match report."
+                },
+                {
+                  "title": "How to watch Wolves v Crystal Palace on BT Sport Box Office",
+                  "timeAgo": "22h ago",
+                  "source": "BT Sport",
+                  "image": {
+                    "newsUrl": "https://www.bt.com/sport/football/premier-league/wolves-v-crystal-palace-live-stream-tv-coverage-ppv-price-start-",
+                    "source": "BT Sport",
+                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcT3tbeK78ZNUYbdrw2Ex8gBV2AWbvNjzLyFRJe6wmvYXZi-pVT8cbpIWjoxgWam2HOAY-9ePXlb"
+                  },
+                  "url": "https://www.bt.com/sport/football/premier-league/wolves-v-crystal-palace-live-stream-tv-coverage-ppv-price-start-",
+                  "snippet": "How can I watch Wolves v Crystal Palace? Find out TV channel, live stream information and everything you need to know with BT Sport."
+                },
+                {
+                  "title": "Debutant Ait-Nouri scores in Wolves win",
+                  "timeAgo": "12h ago",
+                  "source": "BBC Sport",
+                  "image": {
+                    "newsUrl": "https://www.bbc.co.uk/sport/football/54654890",
+                    "source": "BBC Sport",
+                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQioHiEVblYWSuf0_-rzJZJtk5oc_czs5APWvPQ_T_M_BrAWxCqPhWP2IERND4eF-Ztj8IdgfLy"
+                  },
+                  "url": "https://www.bbc.co.uk/sport/football/54654890",
+                  "snippet": "Teenager Rayan Ait-Nouri scores on his Wolves debut as Nuno Espirito Santo&#39;s side move joint top of the Premier League with a 2-0 win over Crystal Palace."
+                }
+              ],
+              "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Wolves+vs+Crystal+Palace#Wolves%20vs%20Crystal%20Palace"
+            }
+          ]
+        }
+      ],
+      "endDateForNextRequest": "20201029",
+      "rssFeedPageUrl": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=US"
+    }
+  }
